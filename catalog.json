@@ -1,0 +1,3662 @@
+{
+  "archive_date": "2026-10-01",
+  "timezone": "Asia/Seoul",
+  "scope": "Available generated artifacts, reuploaded research and working files, and source repositories for five created Sites.",
+  "artifact_count": 155,
+  "unavailable_artifact_count": 2,
+  "site_count": 5,
+  "files": [
+    {
+      "original_name": "vm71.dat",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T02:30:00.954635Z",
+      "updated_at": "2026-09-30T02:30:00.954635Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 3482,
+      "status": "included",
+      "relative_path": "engineering/ansys/vm71.dat",
+      "size_bytes": 3482,
+      "sha256": "e9c5c85db3bdbba04580cec178d37bb9ca084b5c5eddfc2bd196fcd9df211d1a"
+    },
+    {
+      "original_name": "vm182.dat",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T02:30:00.951201Z",
+      "updated_at": "2026-09-30T02:30:00.951201Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 3598,
+      "status": "included",
+      "relative_path": "engineering/ansys/vm182.dat",
+      "size_bytes": 3598,
+      "sha256": "f7bbe94a708cfa53052ca02af672c31019a969088b28bf329b907fef59935655"
+    },
+    {
+      "original_name": "ANSYS_examples_README.txt",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T02:30:00.947259Z",
+      "updated_at": "2026-09-30T02:30:00.947259Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2986,
+      "status": "included",
+      "relative_path": "engineering/ansys/ANSYS_examples_README.txt",
+      "size_bytes": 2986,
+      "sha256": "e5a53d784690507d8c8abae2887b71f4a910fbf90cbed6523b1d7f58b8897b9c"
+    },
+    {
+      "original_name": "VM-MECH-WB-039.wbpz",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T02:30:00.942100Z",
+      "updated_at": "2026-09-30T02:30:00.942100Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1788275,
+      "status": "included",
+      "relative_path": "engineering/ansys/VM-MECH-WB-039.wbpz",
+      "size_bytes": 1788275,
+      "sha256": "8ea48d261844b8c77e8626f08e073b33ff71fdc3e906bb152ce7f2960a4866c6"
+    },
+    {
+      "original_name": "spring_cube_simple.wbjn",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T02:14:41.933572Z",
+      "updated_at": "2026-09-30T02:14:41.933572Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 270104,
+      "status": "included",
+      "relative_path": "engineering/ansys/spring_cube_simple.wbjn",
+      "size_bytes": 270104,
+      "sha256": "d4089c189bc3f1cea4b83ddbadfb660ab0dd1ff1350886137a7e039e3089e4b4"
+    },
+    {
+      "original_name": "spring_cube_preview.gif",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T01:58:15.054667Z",
+      "updated_at": "2026-09-30T01:58:15.054667Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1659011,
+      "status": "included",
+      "relative_path": "engineering/ansys/spring_cube_preview.gif",
+      "size_bytes": 1659011,
+      "sha256": "341b9a3eee019e68fc1037a847a022e33ac95be791b756293ef1bd2ef5b029f3"
+    },
+    {
+      "original_name": "spring_cube.step",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T01:58:15.020794Z",
+      "updated_at": "2026-09-30T01:58:15.020794Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 197455,
+      "status": "included",
+      "relative_path": "engineering/ansys/spring_cube.step",
+      "size_bytes": 197455,
+      "sha256": "8f4a6faaf70735b12ce677b3c82dbb14190f3712a7ec55c7d6abf251af143b1a"
+    },
+    {
+      "original_name": "ANSYS_Spring_Cube.zip",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-30T01:58:15.014519Z",
+      "updated_at": "2026-09-30T01:58:15.014519Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1212040,
+      "status": "included",
+      "relative_path": "engineering/ansys/ANSYS_Spring_Cube.zip",
+      "size_bytes": 1212040,
+      "sha256": "321a9af5d52463a196a715977500a7317350f9949843de255aee2c7628beeae3"
+    },
+    {
+      "original_name": "고령자_보행기_80mm_문턱_바퀴설계.pptx",
+      "category": "presentations",
+      "created_at": "2026-09-30T01:32:02.832016Z",
+      "updated_at": "2026-09-30T01:32:02.832016Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 5277446,
+      "status": "included",
+      "relative_path": "presentations/고령자_보행기_80mm_문턱_바퀴설계.pptx",
+      "size_bytes": 5277446,
+      "sha256": "935bdc3e104641ba7a257577bf56482d96fbf1fd3fbda04a081a228576dbcddc"
+    },
+    {
+      "original_name": "chart-3.png",
+      "category": "media",
+      "created_at": "2026-09-28T06:41:54.740238Z",
+      "updated_at": "2026-09-28T06:41:54.740238Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 311077,
+      "status": "included",
+      "relative_path": "media/chart-3.png",
+      "size_bytes": 311077,
+      "sha256": "2e92d1a5c6dfcf3452bf57ce0bd6d5f403fd9b6ab09eadd9c219594b2dd1f19a"
+    },
+    {
+      "original_name": "chart-2.png",
+      "category": "media",
+      "created_at": "2026-09-28T06:41:52.341568Z",
+      "updated_at": "2026-09-28T06:41:52.341568Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 361208,
+      "status": "included",
+      "relative_path": "media/chart-2.png",
+      "size_bytes": 361208,
+      "sha256": "846fb149c9c51c10a3c365e02ae0061632268923a35c1c5baef60ee08e963fcd"
+    },
+    {
+      "original_name": "chart-1(7).png",
+      "category": "media",
+      "created_at": "2026-09-28T06:41:48.857941Z",
+      "updated_at": "2026-09-28T06:41:48.857941Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 339442,
+      "status": "included",
+      "relative_path": "media/chart-1(7).png",
+      "size_bytes": 339442,
+      "sha256": "10d9f515ebb25f3914148375b7b6e57a643a93fb1ccbd91687f608cf02ed4148"
+    },
+    {
+      "original_name": "chart-1(6).png",
+      "category": "media",
+      "created_at": "2026-09-28T06:41:45.837024Z",
+      "updated_at": "2026-09-28T06:41:45.837024Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 431505,
+      "status": "included",
+      "relative_path": "media/chart-1(6).png",
+      "size_bytes": 431505,
+      "sha256": "e55a2faad114c32f551544732cfeefb0a8ecb8a4adaa476e9754a66643ce78a5"
+    },
+    {
+      "original_name": "chart-1(5).png",
+      "category": "media",
+      "created_at": "2026-09-28T06:00:38.614620Z",
+      "updated_at": "2026-09-28T06:00:38.614620Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 107917,
+      "status": "included",
+      "relative_path": "media/chart-1(5).png",
+      "size_bytes": 107917,
+      "sha256": "3b476acbe48c7441cae2d375494c6da87048dcc004449182db63b7ff6dc15873"
+    },
+    {
+      "original_name": "파이썬_시험_예상문제_족보.md",
+      "category": "study-and-assignments",
+      "created_at": "2026-09-28T01:06:10.121672Z",
+      "updated_at": "2026-09-28T01:06:10.121672Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 6136,
+      "status": "included",
+      "relative_path": "study-and-assignments/파이썬_시험_예상문제_족보.md",
+      "size_bytes": 6136,
+      "sha256": "f2d191d1832da4430f6161f95f8bd1160885cf6e8db4f33f1d07785a2034066e"
+    },
+    {
+      "original_name": "팽이_게임_학습용.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-28T01:03:25.577073Z",
+      "updated_at": "2026-09-28T01:03:25.577073Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 10495,
+      "status": "included",
+      "relative_path": "code/games-and-demos/팽이_게임_학습용.html",
+      "size_bytes": 10495,
+      "sha256": "f58ff20faee399d159c43577fc7c2b47d49d96349605354fa3176b4c2cfadd9c"
+    },
+    {
+      "original_name": "팽이_아레나.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-28T00:59:44.546943Z",
+      "updated_at": "2026-09-28T00:59:44.546943Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 15345,
+      "status": "included",
+      "relative_path": "code/games-and-demos/팽이_아레나.html",
+      "size_bytes": 15345,
+      "sha256": "dc8722a4d221d3ae8aec7560dae1e210131272aed23f5476300727c964ccdf4f"
+    },
+    {
+      "original_name": "탈모약개발_대학원연구포스터_A1.pdf",
+      "category": "presentations",
+      "created_at": "2026-09-26T11:08:36.981853Z",
+      "updated_at": "2026-09-26T11:08:36.981853Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 113133,
+      "status": "included",
+      "relative_path": "presentations/탈모약개발_대학원연구포스터_A1.pdf",
+      "size_bytes": 113133,
+      "sha256": "edbd532ff6d0104177ee92d7d16dba537be52613611b2560599a15b99d266a2d"
+    },
+    {
+      "original_name": "탈모약개발_대학원연구포스터.png",
+      "category": "presentations",
+      "created_at": "2026-09-26T11:08:36.947232Z",
+      "updated_at": "2026-09-26T11:08:36.947232Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1048576,
+      "status": "included",
+      "relative_path": "presentations/탈모약개발_대학원연구포스터.png",
+      "size_bytes": 1048576,
+      "sha256": "b315613cda4c0ee3a961c17cb396925534659076cbdb47c7e17a89507d07e2eb"
+    },
+    {
+      "original_name": "index(1).html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-24T00:22:05.034401Z",
+      "updated_at": "2026-09-24T00:22:05.034401Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 25160,
+      "status": "included",
+      "relative_path": "code/games-and-demos/index(1).html",
+      "size_bytes": 25160,
+      "sha256": "e60f9997d06759e01d5752dbf5b637db39671b87c22f12c69878790f61c77872"
+    },
+    {
+      "original_name": "공업수학2_출제유형_예상족보.pdf",
+      "category": "study-and-assignments",
+      "created_at": "2026-09-23T10:47:18.571276Z",
+      "updated_at": "2026-09-23T10:47:18.571276Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 206932,
+      "status": "included",
+      "relative_path": "study-and-assignments/공업수학2_출제유형_예상족보.pdf",
+      "size_bytes": 206932,
+      "sha256": "b3761a0199fb1ad2344494e72eca6e0e506930b2229eaa1caeb53354f287eee5"
+    },
+    {
+      "original_name": "index_2.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-23T08:40:16.797255Z",
+      "updated_at": "2026-09-23T08:40:16.797255Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 14481,
+      "status": "included",
+      "relative_path": "code/games-and-demos/index_2.html",
+      "size_bytes": 14481,
+      "sha256": "0bb96e97b7dea6c6b4c919ad65c690a8969e111b78706ab5a416d2c88ea46519"
+    },
+    {
+      "original_name": "index_1.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-23T08:27:22.982371Z",
+      "updated_at": "2026-09-23T08:27:22.982371Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 19622,
+      "status": "included",
+      "relative_path": "code/games-and-demos/index_1.html",
+      "size_bytes": 19622,
+      "sha256": "04492608ad0c1de16d892f6cccbd574a84a9a110ddded39e52b715e8dd6af9d2"
+    },
+    {
+      "original_name": "index.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-23T08:20:09.287814Z",
+      "updated_at": "2026-09-23T08:20:09.287814Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 13505,
+      "status": "included",
+      "relative_path": "code/games-and-demos/index.html",
+      "size_bytes": 13505,
+      "sha256": "85a22e0a4227d80376ce4510b3550ba7fa26cce139e50105fbf41aef1a75a623"
+    },
+    {
+      "original_name": "ANSYS_Official_Practice.zip",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-23T03:23:01.588518Z",
+      "updated_at": "2026-09-23T03:23:01.588518Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 3348432,
+      "status": "included",
+      "relative_path": "engineering/ansys/ANSYS_Official_Practice.zip",
+      "size_bytes": 3348432,
+      "sha256": "84a41406c5d6a2f5578392722b64c8b0215406e3346073eba433e79bf28a6e5a"
+    },
+    {
+      "original_name": "large_beam_preview.png",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-23T03:06:09.859847Z",
+      "updated_at": "2026-09-23T03:06:09.859847Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 171286,
+      "status": "included",
+      "relative_path": "engineering/ansys/large_beam_preview.png",
+      "size_bytes": 171286,
+      "sha256": "4db4c402dadb4e8ce1f61244f1d6d2d622f5e8e1701da5e82caba4754dbad929"
+    },
+    {
+      "original_name": "Beam_Fixed_Model.wbjn",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-23T02:05:59.677479Z",
+      "updated_at": "2026-09-23T03:06:10.063130Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 41398,
+      "status": "included",
+      "relative_path": "engineering/ansys/Beam_Fixed_Model.wbjn",
+      "size_bytes": 41398,
+      "sha256": "256981dffa684e07abf4131a6d1ffd0a28d4b4ffc465dbec3b4811aaed335fe9"
+    },
+    {
+      "original_name": "Ansys_Beam_Fixed_Model.zip",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-23T02:05:59.592915Z",
+      "updated_at": "2026-09-23T03:06:10.097982Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 229078,
+      "status": "included",
+      "relative_path": "engineering/ansys/Ansys_Beam_Fixed_Model.zip",
+      "size_bytes": 229078,
+      "sha256": "1368520adabb2d231961b75778933b163f300be5fd822003a948438fdf64b6d5"
+    },
+    {
+      "original_name": "beam_theory.png",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-23T00:00:06.113879Z",
+      "updated_at": "2026-09-23T00:00:06.113879Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 292891,
+      "status": "included",
+      "relative_path": "engineering/ansys/beam_theory.png",
+      "size_bytes": 292891,
+      "sha256": "2f60801f3920633f419975faa60d16b66585357d9bfe4a3a70608470e13ee572"
+    },
+    {
+      "original_name": "Beam_AutoResults.wbjn",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-22T23:44:23.763747Z",
+      "updated_at": "2026-09-22T23:44:23.763747Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 44136,
+      "status": "included",
+      "relative_path": "engineering/ansys/Beam_AutoResults.wbjn",
+      "size_bytes": 44136,
+      "sha256": "304cc6efefe813e350a69508059283d73dcabbd7a8e56cab5385302d641a8cf6"
+    },
+    {
+      "original_name": "Beam_Workbench.wbjn",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-22T23:15:15.198857Z",
+      "updated_at": "2026-09-22T23:15:15.198857Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 34343,
+      "status": "included",
+      "relative_path": "engineering/ansys/Beam_Workbench.wbjn",
+      "size_bytes": 34343,
+      "sha256": "ec783e11169d1f9941bf347340e478e26fe8047c0e41bb7d7046f10954f36c11"
+    },
+    {
+      "original_name": "ansys_beam_demo.zip",
+      "category": "engineering/ansys",
+      "created_at": "2026-09-22T23:06:21.530053Z",
+      "updated_at": "2026-09-22T23:06:21.530053Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 7503,
+      "status": "included",
+      "relative_path": "engineering/ansys/ansys_beam_demo.zip",
+      "size_bytes": 7503,
+      "sha256": "b1517e25eadabad651073abfa4f35e70eb320e464d85550d752f484902413a18"
+    },
+    {
+      "original_name": "세포 형광 현미경 관찰 노트.png",
+      "category": "media",
+      "created_at": "2026-09-22T07:31:17.458788Z",
+      "updated_at": "2026-09-22T07:31:17.458788Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2029107,
+      "status": "included",
+      "relative_path": "media/세포 형광 현미경 관찰 노트.png",
+      "size_bytes": 2029107,
+      "sha256": "714ef159bfd1e1d01098577e71db299fc7bc76db29768867b116989cdab6eb67"
+    },
+    {
+      "original_name": "islad_lake.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-22T07:13:52.534942Z",
+      "updated_at": "2026-09-22T07:13:52.534942Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 10013,
+      "status": "included",
+      "relative_path": "code/games-and-demos/islad_lake.html",
+      "size_bytes": 10013,
+      "sha256": "21c210cdcefc8c2f584f1816c8fefd23609b09c0ac86276b7f04808e4c132f67"
+    },
+    {
+      "original_name": "pong.py",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-22T01:49:21.695210Z",
+      "updated_at": "2026-09-22T01:49:21.695210Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 4520,
+      "status": "included",
+      "relative_path": "code/games-and-demos/pong.py",
+      "size_bytes": 4520,
+      "sha256": "e626792ab80545e7687b0910f8129b74f33d3b36b871f5a795fe483faa6d6238"
+    },
+    {
+      "original_name": "geometry_lab.py",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-22T01:33:28.226254Z",
+      "updated_at": "2026-09-22T01:33:28.226254Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 14117,
+      "status": "included",
+      "relative_path": "code/games-and-demos/geometry_lab.py",
+      "size_bytes": 14117,
+      "sha256": "6e4e496c5171eeaf7fecfb49590edbe6e1bf364ad484292f56a1822c6e1eaecd"
+    },
+    {
+      "original_name": "orbit-lab.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-22T01:23:53.929823Z",
+      "updated_at": "2026-09-22T01:23:53.929823Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 30103,
+      "status": "included",
+      "relative_path": "code/games-and-demos/orbit-lab.html",
+      "size_bytes": 30103,
+      "sha256": "b3fbb4cbedd62bca169f2eec8bae001d94f4a757c883e68a74682543bcd915b0"
+    },
+    {
+      "original_name": "mini-soccer.html",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-21T10:19:01.217712Z",
+      "updated_at": "2026-09-21T10:19:01.217712Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 9237,
+      "status": "included",
+      "relative_path": "code/games-and-demos/mini-soccer.html",
+      "size_bytes": 9237,
+      "sha256": "fc2a2f46713c48b7d4dfd0fd28e687e25aa58bfb3016592e03e7af175bfb1370"
+    },
+    {
+      "original_name": "조직공학_재생의학_5분발표_완성본.pptx",
+      "category": "presentations",
+      "created_at": "2026-09-21T04:02:19.107767Z",
+      "updated_at": "2026-09-21T04:02:19.107767Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 44871,
+      "status": "included",
+      "relative_path": "presentations/조직공학_재생의학_5분발표_완성본.pptx",
+      "size_bytes": 44871,
+      "sha256": "2c6e272497bca2702a2c1d2cd6064c07e64dc67ae98078e327e85c80410703b5"
+    },
+    {
+      "original_name": "chart-1(4).png",
+      "category": "media",
+      "created_at": "2026-09-15T07:07:27.353549Z",
+      "updated_at": "2026-09-15T07:07:27.353549Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 731203,
+      "status": "included",
+      "relative_path": "media/chart-1(4).png",
+      "size_bytes": 731203,
+      "sha256": "7bf3d9d7959a8aceab71233a1d4f2343cb273e1a950ef3aeb585340da705b9c9"
+    },
+    {
+      "original_name": "chart-1(3).png",
+      "category": "media",
+      "created_at": "2026-09-15T07:07:23.998859Z",
+      "updated_at": "2026-09-15T07:07:23.998859Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 584342,
+      "status": "included",
+      "relative_path": "media/chart-1(3).png",
+      "size_bytes": 584342,
+      "sha256": "df46f01159c240b474db41f395f789489feacb7b8c8e1a6f4bab480a9ae0c742"
+    },
+    {
+      "original_name": "chart-1(2).png",
+      "category": "media",
+      "created_at": "2026-09-15T07:07:20.748620Z",
+      "updated_at": "2026-09-15T07:07:20.748620Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 842995,
+      "status": "included",
+      "relative_path": "media/chart-1(2).png",
+      "size_bytes": 842995,
+      "sha256": "379bf5e1dea1c8602746f2d658058d737fbb9e61ba73ad709866a0ab35a6abae"
+    },
+    {
+      "original_name": "yang_mills_mass_gap_source.zip",
+      "category": "research/yang-mills",
+      "created_at": "2026-09-14T23:47:05.344966Z",
+      "updated_at": "2026-09-14T23:47:05.344966Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 15105,
+      "status": "included",
+      "relative_path": "research/yang-mills/yang_mills_mass_gap_source.zip",
+      "size_bytes": 15105,
+      "sha256": "3f46b94f20efa7f9443f655c24ef62f385052f95f0fd75e4242860f3077ff8ac"
+    },
+    {
+      "original_name": "yang_mills_mass_gap.pdf",
+      "category": "research/yang-mills",
+      "created_at": "2026-09-14T23:47:05.324674Z",
+      "updated_at": "2026-09-14T23:47:05.324674Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 477978,
+      "status": "included",
+      "relative_path": "research/yang-mills/yang_mills_mass_gap.pdf",
+      "size_bytes": 477978,
+      "sha256": "b823e672ca28e3ee42b81b1a036ae628b07ccd22f7aefe57bbe09d3845e7d668"
+    },
+    {
+      "original_name": "yang_mills_mass_gap.tex",
+      "category": "research/yang-mills",
+      "created_at": "2026-09-14T23:47:05.262201Z",
+      "updated_at": "2026-09-14T23:47:05.262201Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 39293,
+      "status": "included",
+      "relative_path": "research/yang-mills/yang_mills_mass_gap.tex",
+      "size_bytes": 39293,
+      "sha256": "c5d1b1e1a5fd65cba99443fdd2b70d2bcf83c1dec6bb1f6cf323a742114740a5"
+    },
+    {
+      "original_name": "goldbach_survival_paper.pdf",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:21:50.893580Z",
+      "updated_at": "2026-09-12T11:21:50.893580Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 241227,
+      "status": "included",
+      "relative_path": "research/goldbach/goldbach_survival_paper.pdf",
+      "size_bytes": 241227,
+      "sha256": "a9d6b585a1ac50acd00c63fea20879e2577427181e270b97a47ac9b5b221b11f"
+    },
+    {
+      "original_name": "goldbach_survival_paper_source.zip",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:21:50.865193Z",
+      "updated_at": "2026-09-12T11:21:50.865193Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 456264,
+      "status": "included",
+      "relative_path": "research/goldbach/goldbach_survival_paper_source.zip",
+      "size_bytes": 456264,
+      "sha256": "61b08a412cb384462e366aaa3087e06275e3dd2b5cde4efdce0d108cecd75a3a"
+    },
+    {
+      "original_name": "survival_trace.png",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.492935Z",
+      "updated_at": "2026-09-12T11:02:23.492935Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 230497,
+      "status": "included",
+      "relative_path": "research/goldbach/survival_trace.png",
+      "size_bytes": 230497,
+      "sha256": "38bc6ac3f4d4705ab2cc3a4ad1e2e2f23d2a67178a059d3a3ac8463877027c76"
+    },
+    {
+      "original_name": "survival_summary.csv",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.483419Z",
+      "updated_at": "2026-09-12T11:02:23.483419Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1550,
+      "status": "included",
+      "relative_path": "research/goldbach/survival_summary.csv",
+      "size_bytes": 1550,
+      "sha256": "0c2942476332865f48ba9e261b64868ff0fef5c7a28eb6f99abf7ac116955395"
+    },
+    {
+      "original_name": "goldbach_survival_trace.zip",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.464346Z",
+      "updated_at": "2026-09-12T11:02:23.464346Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 231116,
+      "status": "included",
+      "relative_path": "research/goldbach/goldbach_survival_trace.zip",
+      "size_bytes": 231116,
+      "sha256": "74d1de6cfb7ea24036ad29fd1c5468c92aceda04d16a4e1f2e43efc6c371386b"
+    },
+    {
+      "original_name": "goldbach_trace.py",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.408455Z",
+      "updated_at": "2026-09-12T11:02:23.408455Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 10713,
+      "status": "included",
+      "relative_path": "research/goldbach/goldbach_trace.py",
+      "size_bytes": 10713,
+      "sha256": "24c39b239c3ed2229423125684341f60ce17f056c8ee3d609b80cc6695956bef"
+    },
+    {
+      "original_name": "goldbach_survival_analysis.md",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.357799Z",
+      "updated_at": "2026-09-12T11:02:23.357799Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 11568,
+      "status": "included",
+      "relative_path": "research/goldbach/goldbach_survival_analysis.md",
+      "size_bytes": 11568,
+      "sha256": "6e2644fb898eee8cb97621d67b532fa11590f0aebb4a1e9fd49f38080de7a749"
+    },
+    {
+      "original_name": "intersection_orders.csv",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.350760Z",
+      "updated_at": "2026-09-12T11:02:23.350760Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 809,
+      "status": "included",
+      "relative_path": "research/goldbach/intersection_orders.csv",
+      "size_bytes": 809,
+      "sha256": "66925c1b180490182472a1a1c70cce6b6b5d13ac8775a7ea51519f3898db66ad"
+    },
+    {
+      "original_name": "exact_trace.json",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.341952Z",
+      "updated_at": "2026-09-12T11:02:23.341952Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 26051,
+      "status": "included",
+      "relative_path": "research/goldbach/exact_trace.json",
+      "size_bytes": 26051,
+      "sha256": "20e8e66887700b6940215984289e8582fe5a8e4a433139d2ae541a6cfd8c2609"
+    },
+    {
+      "original_name": "survival_stages.csv",
+      "category": "research/goldbach",
+      "created_at": "2026-09-12T11:02:23.324436Z",
+      "updated_at": "2026-09-12T11:02:23.324436Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 23960,
+      "status": "included",
+      "relative_path": "research/goldbach/survival_stages.csv",
+      "size_bytes": 23960,
+      "sha256": "cb9e01289a6f7aa55900da80c4e421c87df42f6a781b9a7cd739b9a464262f6f"
+    },
+    {
+      "original_name": "Spendor_Classic_전모델_상세비교_20260905.xlsx",
+      "category": "finance-and-comparisons",
+      "created_at": "2026-09-05T15:05:28.247420Z",
+      "updated_at": "2026-09-05T15:05:28.247420Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 34128,
+      "status": "included",
+      "relative_path": "finance-and-comparisons/Spendor_Classic_전모델_상세비교_20260905.xlsx",
+      "size_bytes": 34128,
+      "sha256": "6867b3014893f86aae19b0844dcba0f0ff7ffd33f303b4967ebaf80238713dbd"
+    },
+    {
+      "original_name": "황금빛 창가의 우아한 초상.png",
+      "category": "media",
+      "created_at": "2026-09-05T09:51:14.679462Z",
+      "updated_at": "2026-09-05T09:51:14.679462Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2200263,
+      "status": "included",
+      "relative_path": "media/황금빛 창가의 우아한 초상.png",
+      "size_bytes": 2200263,
+      "sha256": "9f312182d346aeb5ac5ad63cf0778cce8fad5b3fc6f08a8ab22eba08c86f2edf"
+    },
+    {
+      "original_name": "stock_screen_20260905.xlsx",
+      "category": "finance-and-comparisons",
+      "created_at": "2026-09-05T09:16:34.184972Z",
+      "updated_at": "2026-09-05T13:26:37.963963Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 98963,
+      "status": "included",
+      "relative_path": "finance-and-comparisons/stock_screen_20260905.xlsx",
+      "size_bytes": 98963,
+      "sha256": "aef15705e20112614c0755ab1b7e4d7621106cbae1f321b4846610231334ff77"
+    },
+    {
+      "original_name": "ChatGPT_대화_종합보고서_2026-08-31.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-08-31T12:18:17.500965Z",
+      "updated_at": "2026-08-31T12:18:17.500965Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 181053,
+      "status": "included",
+      "relative_path": "personal-documents/ChatGPT_대화_종합보고서_2026-08-31.pdf",
+      "size_bytes": 181053,
+      "sha256": "4d6bb4b725ed6ca1bd1d9fdc8fa544618cebab52f574ac6930f69f388c926f06"
+    },
+    {
+      "original_name": "ai_math_open_problems_2026.pdf",
+      "category": "research/mathematics",
+      "created_at": "2026-08-30T00:48:59.085347Z",
+      "updated_at": "2026-08-30T00:48:59.085347Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 444605,
+      "status": "included",
+      "relative_path": "research/mathematics/ai_math_open_problems_2026.pdf",
+      "size_bytes": 444605,
+      "sha256": "3c762fd605d99e24ad7c4ab4efaa2f97212a1adfebc0d82b51cc53b3a99502b2"
+    },
+    {
+      "original_name": "philosophy_shorts_with_bgm.mp4",
+      "category": "media",
+      "created_at": "2026-08-27T05:43:11.559288Z",
+      "updated_at": "2026-08-27T05:43:11.559288Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 7132194,
+      "status": "included",
+      "relative_path": "media/philosophy_shorts_with_bgm.mp4",
+      "size_bytes": 7132194,
+      "sha256": "2b36f6b24e6681cf27809e8c1750cd11b4bbb937fe6e427e678996f18890ca08"
+    },
+    {
+      "original_name": "philosophy_short_descartes.mp4",
+      "category": "media",
+      "created_at": "2026-08-27T05:39:45.059455Z",
+      "updated_at": "2026-08-27T05:39:45.059455Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 638935,
+      "status": "included",
+      "relative_path": "media/philosophy_short_descartes.mp4",
+      "size_bytes": 638935,
+      "sha256": "40911ec3a2e23d2d3ca5a0ec08a385008d6353a80e6c2aa57483422aa70b234f"
+    },
+    {
+      "original_name": "image-gen-3.png",
+      "category": "media",
+      "created_at": "2026-08-27T05:37:43.348126Z",
+      "updated_at": "2026-08-27T05:37:43.348126Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1989973,
+      "status": "included",
+      "relative_path": "media/image-gen-3.png",
+      "size_bytes": 1989973,
+      "sha256": "9bc0279a36eeb06b610e29881fd1135d8e92783996fb98b564f26563844bec7e"
+    },
+    {
+      "original_name": "image-gen-2.png",
+      "category": "media",
+      "created_at": "2026-08-27T05:37:40.166988Z",
+      "updated_at": "2026-08-27T05:37:40.166988Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1970121,
+      "status": "included",
+      "relative_path": "media/image-gen-2.png",
+      "size_bytes": 1970121,
+      "sha256": "c689cf8660a69b92489506866c9a2398e41549c0412f658f18bd91721899d4b4"
+    },
+    {
+      "original_name": "image-gen-1.png",
+      "category": "media",
+      "created_at": "2026-08-27T05:37:37.479920Z",
+      "updated_at": "2026-08-27T05:37:37.479920Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1834914,
+      "status": "included",
+      "relative_path": "media/image-gen-1.png",
+      "size_bytes": 1834914,
+      "sha256": "4317f1e48830987056b19d2647606bd289c6c8e4a6f58c7dda49999bde04cd2f"
+    },
+    {
+      "original_name": "chart-1(1).png",
+      "category": "media",
+      "created_at": "2026-08-04T08:53:26.555911Z",
+      "updated_at": "2026-08-04T08:53:26.555911Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 196139,
+      "status": "included",
+      "relative_path": "media/chart-1(1).png",
+      "size_bytes": 196139,
+      "sha256": "33aca532cf45eb282857e888bdd895ae6a6ce19562a82d9066ac24f38b2abe3f"
+    },
+    {
+      "original_name": "주성엔지니어링 ALG_SDP 공정 설계 도식화.png",
+      "category": "engineering/semiconductors",
+      "created_at": "2026-08-03T07:50:46.237545Z",
+      "updated_at": "2026-08-03T07:50:46.237545Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1505430,
+      "status": "included",
+      "relative_path": "engineering/semiconductors/주성엔지니어링 ALG_SDP 공정 설계 도식화.png",
+      "size_bytes": 1505430,
+      "sha256": "a49abebb23820a50ee22fd8413bc9b79a615b48f8f22b283a1a872dab2d5b6c9"
+    },
+    {
+      "original_name": "베일 쓴 신비로운 녹색 로브의 성스러운 인물.png",
+      "category": "media",
+      "created_at": "2026-08-02T07:37:35.280596Z",
+      "updated_at": "2026-08-02T07:37:35.280596Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2509824,
+      "status": "included",
+      "relative_path": "media/베일 쓴 신비로운 녹색 로브의 성스러운 인물.png",
+      "size_bytes": 2509824,
+      "sha256": "1b6dd6e428fafbcdf2b6fca9dd61791c21fc51e6d253b52963768bf61630bbbf"
+    },
+    {
+      "original_name": "황금빛 후광의 신성한 이슬람 성화.png",
+      "category": "media",
+      "created_at": "2026-08-02T07:33:17.521019Z",
+      "updated_at": "2026-08-02T07:33:17.521019Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2533986,
+      "status": "included",
+      "relative_path": "media/황금빛 후광의 신성한 이슬람 성화.png",
+      "size_bytes": 2533986,
+      "sha256": "27c01828e34e056cb764e8e05a817dd381b9791a0af38b68c464397c52a592db"
+    },
+    {
+      "original_name": "황금빛 화염 속 베일 쓴 경건한 인물.png",
+      "category": "media",
+      "created_at": "2026-08-02T07:33:14.030584Z",
+      "updated_at": "2026-08-02T07:33:14.030584Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2612840,
+      "status": "included",
+      "relative_path": "media/황금빛 화염 속 베일 쓴 경건한 인물.png",
+      "size_bytes": 2612840,
+      "sha256": "19c8035d375f7393181c4d2fc8568bb7f93fa78111d186ed02d658018134e369"
+    },
+    {
+      "original_name": "진학사_성적기본폼_교과성적_완성.xlsx",
+      "category": "personal-documents",
+      "created_at": "2026-07-25T14:21:09.108437Z",
+      "updated_at": "2026-07-25T14:21:09.108676Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 22709,
+      "status": "included",
+      "relative_path": "personal-documents/진학사_성적기본폼_교과성적_완성.xlsx",
+      "size_bytes": 22709,
+      "sha256": "a4b9815a6e1b53c7063b842ca15bbcee6bc93f3fa1947c53da39071b6863b441"
+    },
+    {
+      "original_name": "진학사_성적기본폼_작업중.xlsx",
+      "category": "personal-documents",
+      "created_at": "2026-07-25T14:19:19.577867Z",
+      "updated_at": "2026-07-25T14:19:19.578157Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 21685,
+      "status": "included",
+      "relative_path": "personal-documents/진학사_성적기본폼_작업중.xlsx",
+      "size_bytes": 21685,
+      "sha256": "3f32710a34d44ada2d3822ed602f9150e6fa0cc6360e60afb804857f434f17f4"
+    },
+    {
+      "original_name": "chart-1.png",
+      "category": "media",
+      "created_at": "2026-07-17T09:50:42.892967Z",
+      "updated_at": "2026-07-17T09:50:42.893227Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1133231,
+      "status": "included",
+      "relative_path": "media/chart-1.png",
+      "size_bytes": 1133231,
+      "sha256": "ab478c4996a03ee1341520612ead9dbee877f854a40788c1a8f0dd3fd13974af"
+    },
+    {
+      "original_name": "wdw_robustness.py",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-07-13T09:48:00.170409Z",
+      "updated_at": "2026-07-13T09:48:00.170751Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2603,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/wdw_robustness.py",
+      "size_bytes": 2603,
+      "sha256": "b754e3c2c2b857fef0b8f81f82083b39eba3b2355f64c113c8a88e1accd44848"
+    },
+    {
+      "original_name": "floquet_scan.py",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-07-13T09:47:59.274603Z",
+      "updated_at": "2026-07-13T09:47:59.274894Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1614,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/floquet_scan.py",
+      "size_bytes": 1614,
+      "sha256": "e175fac3c78eb3c24f6405d453476d3366dc11a61a02c816ba64d2265e532325"
+    },
+    {
+      "original_name": "Brane_Dilaton_Research_Audit_and_Revised_Framework.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-07-13T09:47:58.347820Z",
+      "updated_at": "2026-07-13T09:47:58.348096Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 106276,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Research_Audit_and_Revised_Framework.pdf",
+      "size_bytes": 106276,
+      "sha256": "c9cade2788236c5031ddfe30d98dc359d43ae61e9fb29c7538aaa6098e7d7a9e"
+    },
+    {
+      "original_name": "성적표_추출.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-06-29T23:03:59.960886Z",
+      "updated_at": "2026-06-29T23:03:59.961170Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1046145,
+      "status": "included",
+      "relative_path": "personal-documents/성적표_추출.pdf",
+      "size_bytes": 1046145,
+      "sha256": "b4b5e3c131e8bff59b320d102ff94d63ee515ef6ef43df59f096d5e754c3a3c9"
+    },
+    {
+      "original_name": "물리대회_상장.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-06-29T02:31:24.164630Z",
+      "updated_at": "2026-06-29T02:31:24.164989Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 58502,
+      "status": "included",
+      "relative_path": "personal-documents/물리대회_상장.pdf",
+      "size_bytes": 58502,
+      "sha256": "a31fe8844ab64b65f1e393a7bd5426d6b8ba5ca4c3f2f9c10ba608699918c531"
+    },
+    {
+      "original_name": "물리인증제_인증서.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-06-29T02:31:20.314119Z",
+      "updated_at": "2026-06-29T02:31:20.314627Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 164288,
+      "status": "included",
+      "relative_path": "personal-documents/물리인증제_인증서.pdf",
+      "size_bytes": 164288,
+      "sha256": "8fdae0335b47ad0713b6f5e531c4619f2e8def17d0e70669cfd9525ca1d0e233"
+    },
+    {
+      "original_name": "화학올림피아드_수상확인서.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-06-29T02:31:15.860320Z",
+      "updated_at": "2026-06-29T02:31:15.860883Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 87652,
+      "status": "included",
+      "relative_path": "personal-documents/화학올림피아드_수상확인서.pdf",
+      "size_bytes": 87652,
+      "sha256": "09026d57ad1893e3a5dd1ec60ec76b7261825d16f71679aa283cb28126676972"
+    },
+    {
+      "original_name": "학사과정-이수표_선별작성.docx",
+      "category": "personal-documents",
+      "created_at": "2026-06-28T14:20:06.557449Z",
+      "updated_at": "2026-06-28T14:20:06.557658Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 21422,
+      "status": "included",
+      "relative_path": "personal-documents/학사과정-이수표_선별작성.docx",
+      "size_bytes": 21422,
+      "sha256": "a1abaa98a18a3f06c76b904a79c9f4b47c45e628b3d3b32065836898672415d7"
+    },
+    {
+      "original_name": "학사과정-이수표_내용작성중.docx",
+      "category": "personal-documents",
+      "created_at": "2026-06-28T14:18:46.739178Z",
+      "updated_at": "2026-06-28T14:18:46.739403Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 21712,
+      "status": "included",
+      "relative_path": "personal-documents/학사과정-이수표_내용작성중.docx",
+      "size_bytes": 21712,
+      "sha256": "db038a8c74c3b56bdb3bb533ee2e9165742ebb658f1316cc1699526f1c7b08e7"
+    },
+    {
+      "original_name": "KAIST_학사과정_이수표_초안.docx",
+      "category": "personal-documents",
+      "created_at": "2026-06-28T14:17:07.848122Z",
+      "updated_at": "2026-06-28T14:17:07.848376Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 37841,
+      "status": "included",
+      "relative_path": "personal-documents/KAIST_학사과정_이수표_초안.docx",
+      "size_bytes": 37841,
+      "sha256": "bc62a1711fe5bf9da7d8a940e43b038f4e06e51a1fb8f073f9385492b48abf3b"
+    },
+    {
+      "original_name": "Hongjun_Yoon_CV_Updated.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-06-27T16:30:07.600921Z",
+      "updated_at": "2026-06-27T16:30:07.601282Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 23270,
+      "status": "included",
+      "relative_path": "personal-documents/Hongjun_Yoon_CV_Updated.pdf",
+      "size_bytes": 23270,
+      "sha256": "275aa3533931dbd3e8b3fcf753ba3d2c3db283998c23320c07249a73c4634e9b"
+    },
+    {
+      "original_name": "Hongjun_Yoon_CV.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-06-27T16:24:43.725405Z",
+      "updated_at": "2026-06-27T16:24:43.725670Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 23250,
+      "status": "included",
+      "relative_path": "personal-documents/Hongjun_Yoon_CV.pdf",
+      "size_bytes": 23250,
+      "sha256": "53f005345fb1803cee28a492d3f6f2206badd2d5b3756a9f7ecf26ec6762a0dd"
+    },
+    {
+      "original_name": "제출서류_윤홍준_병합수정.pdf",
+      "category": "personal-documents",
+      "created_at": "2026-06-17T11:59:03.878783Z",
+      "updated_at": "2026-06-17T11:59:03.879359Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 3341373,
+      "status": "included",
+      "relative_path": "personal-documents/제출서류_윤홍준_병합수정.pdf",
+      "size_bytes": 3341373,
+      "sha256": "349281b2476b3947ad5e3db00ec9079c11b92c07d3d9f9d374f38c6fb1c67859"
+    },
+    {
+      "original_name": "HW12_2026_풀이_윤홍준.docx",
+      "category": "study-and-assignments",
+      "created_at": "2026-06-11T10:28:03.257709Z",
+      "updated_at": "2026-06-11T10:28:03.257988Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 39851,
+      "status": "included",
+      "relative_path": "study-and-assignments/HW12_2026_풀이_윤홍준.docx",
+      "size_bytes": 39851,
+      "sha256": "1df0a3184dbb571303f743852d5c38722bcc2da2854e088660f59389cedd8986"
+    },
+    {
+      "original_name": "HW11_completed_with_code_captures.pdf",
+      "category": "study-and-assignments",
+      "created_at": "2026-06-07T02:47:23.130447Z",
+      "updated_at": "2026-06-07T02:47:23.130860Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 303575,
+      "status": "included",
+      "relative_path": "study-and-assignments/HW11_completed_with_code_captures.pdf",
+      "size_bytes": 303575,
+      "sha256": "021e55e1922cd1c66e935dc3f2f25d680020fe09d42c1a592a3b3ee22eb811c4"
+    },
+    {
+      "original_name": "Brane_Dilaton_Title_Fixed.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T07:09:06.646342Z",
+      "updated_at": "2026-06-02T07:09:06.646812Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1002671,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Title_Fixed.pdf",
+      "size_bytes": 1002671,
+      "sha256": "7d92189a14a416b5bc4e7a770eb9074a0ae0ec44c077dbe0127d6bbdd460e14c"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_With_Affiliation_References_no_page1.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:24:25.502887Z",
+      "updated_at": "2026-06-02T05:24:25.503440Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1001974,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_With_Affiliation_References_no_page1.pdf",
+      "size_bytes": 1001974,
+      "sha256": "175f8b22c6cc6ac0c40e2cc3f067eb6a055f5e19945a514550cb83dd9f747be1"
+    },
+    {
+      "original_name": "Brane_Dilaton_Merged_Cleaned_Version.docx",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:20:13.080972Z",
+      "updated_at": "2026-06-02T05:20:13.081269Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 37243,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Merged_Cleaned_Version.docx",
+      "size_bytes": 37243,
+      "sha256": "3de6ca46ff5e2a8a6f94a95d12c58bd4811497ee8e06560a499693ccf470b880"
+    },
+    {
+      "original_name": "Brane_Dilaton_Cleaned_Preprint.docx",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:18:46.347319Z",
+      "updated_at": "2026-06-02T05:18:46.347772Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 37834,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Cleaned_Preprint.docx",
+      "size_bytes": 37834,
+      "sha256": "3286acdaa93ea3074a260ee10b329bff244b9c3c715013cb2970cdc1c7fdf77e"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_With_Affiliation_References.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:13:54.148564Z",
+      "updated_at": "2026-06-02T05:13:54.148991Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1002930,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_With_Affiliation_References.pdf",
+      "size_bytes": 1002930,
+      "sha256": "fbd2b83c38bcd8e4d9cdd4aa06d6638593e63642a10e68f5c792cb2aee126b49"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_Author_Version.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:10:42.088045Z",
+      "updated_at": "2026-06-02T05:10:42.088472Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 997288,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_Author_Version.pdf",
+      "size_bytes": 997288,
+      "sha256": "a1d7a4d9190e49ef42d8e6cc1e746bca850deac71b26b62c9b9e060e8aa1ef74"
+    },
+    {
+      "original_name": "Brane_Dilaton_Edited_Illustrated_Version.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:08:12.775525Z",
+      "updated_at": "2026-06-02T05:08:12.775881Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1004229,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Edited_Illustrated_Version.pdf",
+      "size_bytes": 1004229,
+      "sha256": "bc51d9a68d91d63e06f0a6782972487dc6f623a6d54e7f8a0fcddfff409fbe75"
+    },
+    {
+      "original_name": "Brane_Dilaton_Full_Combined_Paper.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:06:02.231945Z",
+      "updated_at": "2026-06-02T05:06:02.232237Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 1002890,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Full_Combined_Paper.pdf",
+      "size_bytes": 1002890,
+      "sha256": "36090ac7e439e755efb5254c2f832d76bb2f3b1383c44c97994e879ff0352872"
+    },
+    {
+      "original_name": "Brane_Dilaton_Integrated_Preprint.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:02:38.433020Z",
+      "updated_at": "2026-06-02T05:02:38.433287Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 6086,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Integrated_Preprint.pdf",
+      "size_bytes": 6086,
+      "sha256": "e592c01ec05bdc8abe96c8580ad3e2a0feb6e00ca8abfb8f4efe4edd49c1c5ae"
+    },
+    {
+      "original_name": "Brane_Dilaton_Merged_Preprint_Package.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T05:00:31.908711Z",
+      "updated_at": "2026-06-02T05:00:31.909126Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 997587,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Merged_Preprint_Package.pdf",
+      "size_bytes": 997587,
+      "sha256": "f4a62bc46a64e7eb5729ce74a8c0648efb936c501e06f037a8843fa5528209bb"
+    },
+    {
+      "original_name": "WDW_Regularized_WKB_Operator_Brane_Dilaton.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T04:55:50.203110Z",
+      "updated_at": "2026-06-02T04:55:50.203541Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 448328,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/WDW_Regularized_WKB_Operator_Brane_Dilaton.pdf",
+      "size_bytes": 448328,
+      "sha256": "2cb53550045e6ff84c2aff4b005bd1c39e886c8982bcef6a82d9bec60d8bdd8e"
+    },
+    {
+      "original_name": "WDW_2D_Grid_Solution_Brane_Dilaton.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T04:49:32.634042Z",
+      "updated_at": "2026-06-02T04:49:32.634397Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 243384,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/WDW_2D_Grid_Solution_Brane_Dilaton.pdf",
+      "size_bytes": 243384,
+      "sha256": "d6fc3adf5ec571735fc48c2f3cb0cfdef021fa2572da4d4b49535799b2c1d8c1"
+    },
+    {
+      "original_name": "Brane_Dilaton_Extended_Preprint_3_4_5.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T04:42:50.828136Z",
+      "updated_at": "2026-06-02T04:42:50.828449Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 306857,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Extended_Preprint_3_4_5.pdf",
+      "size_bytes": 306857,
+      "sha256": "5deae990acba7a65dda9dc38c4561e4dcdbd897b96e74dbf16698e95479182d9"
+    },
+    {
+      "original_name": "Brane_Dilaton_Preprint_Draft.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T04:38:29.208305Z",
+      "updated_at": "2026-06-02T04:38:29.208657Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 4363,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Preprint_Draft.pdf",
+      "size_bytes": 4363,
+      "sha256": "7ec4b18eb03467a39870782c7da5d55da1ad2dfbbe9c08721e2e2b34fae39b34"
+    },
+    {
+      "original_name": "Brane_Dilaton_Toy_Model_Notes.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T04:36:30.068792Z",
+      "updated_at": "2026-06-02T04:36:30.069065Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 3233,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Toy_Model_Notes.pdf",
+      "size_bytes": 3233,
+      "sha256": "79456995c4799545ebe863702c23521f394a99911d39add972a02095abc5e12d"
+    },
+    {
+      "original_name": "ALE_Aplus_Text_Fixed.pdf",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:51:13.695325Z",
+      "updated_at": "2026-05-30T01:51:13.695601Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 324083,
+      "status": "included",
+      "relative_path": "presentations/ALE_Aplus_Text_Fixed.pdf",
+      "size_bytes": 324083,
+      "sha256": "aaa83bbae9e5c8d6ae81a5207fad64640785970de793e5f0aae143a866500fbe"
+    },
+    {
+      "original_name": "HW9_solved_with_appendix.pdf",
+      "category": "study-and-assignments",
+      "created_at": "2026-05-25T11:48:28.430182Z",
+      "updated_at": "2026-05-25T11:48:28.430707Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 177237,
+      "status": "included",
+      "relative_path": "study-and-assignments/HW9_solved_with_appendix.pdf",
+      "size_bytes": 177237,
+      "sha256": "8681397b86416d1b58319a828b7a6dde621b972d930e3c2a9e3dfd60060130d2"
+    },
+    {
+      "original_name": "information_potential_toroidal_universe.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-05-05T11:18:38.382943Z",
+      "updated_at": "2026-05-05T11:18:38.383290Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2727,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/information_potential_toroidal_universe.pdf",
+      "size_bytes": 2727,
+      "sha256": "4e369aab0bb4e9055a04e0696b9ba70ac38ac994c32312d731a94fd9deb7185c"
+    },
+    {
+      "original_name": "Effective Scale-Dependent Gravity.png",
+      "category": "media",
+      "created_at": "2026-05-01T00:04:39.039505Z",
+      "updated_at": "2026-05-01T00:04:39.040021Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 40521,
+      "status": "unavailable",
+      "relative_path": null,
+      "size_bytes": null,
+      "sha256": null
+    },
+    {
+      "original_name": "Galaxy Rotation Curve from IR-Enhanced Nonlocal Gravity.png",
+      "category": "media",
+      "created_at": "2026-05-01T00:04:35.149302Z",
+      "updated_at": "2026-05-01T00:04:35.149844Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 46884,
+      "status": "unavailable",
+      "relative_path": null,
+      "size_bytes": null,
+      "sha256": null
+    },
+    {
+      "original_name": "homework5_solution_fixed.docx",
+      "category": "study-and-assignments",
+      "created_at": "2026-04-13T01:08:53.656536Z",
+      "updated_at": "2026-04-13T01:08:53.656561Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 37019,
+      "status": "included",
+      "relative_path": "study-and-assignments/homework5_solution_fixed.docx",
+      "size_bytes": 37019,
+      "sha256": "dc9da72ddeaf88ab9222336892ac52efaad960bb681253940fdd07e3963fe654"
+    },
+    {
+      "original_name": "code_output_capture.png",
+      "category": "study-and-assignments",
+      "created_at": "2026-04-05T11:04:00.722112Z",
+      "updated_at": "2026-04-05T11:04:00.722139Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 5857,
+      "status": "included",
+      "relative_path": "study-and-assignments/code_output_capture.png",
+      "size_bytes": 5857,
+      "sha256": "723bc168bd7177910a39b4f994a63498bd41ee1c572e2798aaa20c4a255b2c3a"
+    },
+    {
+      "original_name": "Homework_Assignment4_Solutions_v2.docx",
+      "category": "study-and-assignments",
+      "created_at": "2026-04-05T11:00:39.779527Z",
+      "updated_at": "2026-04-05T11:00:39.779553Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 36885,
+      "status": "included",
+      "relative_path": "study-and-assignments/Homework_Assignment4_Solutions_v2.docx",
+      "size_bytes": 36885,
+      "sha256": "8d179b6d90635389712c301ffb90243f06b19327320d361877b0157d7eb115d4"
+    },
+    {
+      "original_name": "Homework_Assignment4_Solutions.pdf",
+      "category": "study-and-assignments",
+      "created_at": "2026-04-05T10:57:55.980711Z",
+      "updated_at": "2026-04-05T10:57:55.980742Z",
+      "source_kind": "generated",
+      "expected_size_bytes": 2222,
+      "status": "included",
+      "relative_path": "study-and-assignments/Homework_Assignment4_Solutions.pdf",
+      "size_bytes": 2222,
+      "sha256": "777fa56c02b1afedafbf78fcf243f2c21957c471b1a498778517b5dfcf6387ec"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_With_Affiliation_References_no_page1-5.docx",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-09-29T15:14:13.647259Z",
+      "updated_at": "2026-09-29T15:14:13.647259Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 849036,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_With_Affiliation_References_no_page1-5.docx",
+      "size_bytes": 849036,
+      "sha256": "d75dc216f1be0039121cf5137ec7fb07b780a85feaf36b2e65e719f29c37cc1e"
+    },
+    {
+      "original_name": "붙여넣은 텍스트 (1)(3).txt",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-24T00:21:09.785785Z",
+      "updated_at": "2026-09-24T00:21:09.785785Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 26049,
+      "status": "included",
+      "relative_path": "code/games-and-demos/붙여넣은 텍스트 (1)(3).txt",
+      "size_bytes": 26049,
+      "sha256": "96236a8d58c3ca8238838cf469f18cd67a9b83cdccb9e31d6d1927a569963857"
+    },
+    {
+      "original_name": "붙여넣은 텍스트 (1)(2).txt",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-23T08:39:27.351601Z",
+      "updated_at": "2026-09-23T08:39:27.351601Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 14481,
+      "status": "included",
+      "relative_path": "code/games-and-demos/붙여넣은 텍스트 (1)(2).txt",
+      "size_bytes": 14481,
+      "sha256": "0bb96e97b7dea6c6b4c919ad65c690a8969e111b78706ab5a416d2c88ea46519"
+    },
+    {
+      "original_name": "붙여넣은 텍스트 (1)(1).txt",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-23T08:26:22.086867Z",
+      "updated_at": "2026-09-23T08:26:22.086867Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 19622,
+      "status": "included",
+      "relative_path": "code/games-and-demos/붙여넣은 텍스트 (1)(1).txt",
+      "size_bytes": 19622,
+      "sha256": "04492608ad0c1de16d892f6cccbd574a84a9a110ddded39e52b715e8dd6af9d2"
+    },
+    {
+      "original_name": "붙여넣은 텍스트 (1).txt",
+      "category": "code/games-and-demos",
+      "created_at": "2026-09-23T08:18:39.466486Z",
+      "updated_at": "2026-09-23T08:18:39.466486Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 13505,
+      "status": "included",
+      "relative_path": "code/games-and-demos/붙여넣은 텍스트 (1).txt",
+      "size_bytes": 13505,
+      "sha256": "85a22e0a4227d80376ce4510b3550ba7fa26cce139e50105fbf41aef1a75a623"
+    },
+    {
+      "original_name": "진학사_성적기본폼(자연)_전학년입력완료.xlsx",
+      "category": "personal-documents",
+      "created_at": "2026-09-18T06:36:23.082379Z",
+      "updated_at": "2026-09-18T06:41:10.601111Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 21988,
+      "status": "included",
+      "relative_path": "personal-documents/진학사_성적기본폼(자연)_전학년입력완료.xlsx",
+      "size_bytes": 21988,
+      "sha256": "e0f49366eba349e12dbab5e19f8c390311f29a7b571dff729fe832cd04743a3d"
+    },
+    {
+      "original_name": "mega_nesin_v6.3_filled.xlsx",
+      "category": "personal-documents",
+      "created_at": "2026-08-29T10:29:23.713641Z",
+      "updated_at": "2026-08-29T10:33:05.886121Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 18947,
+      "status": "included",
+      "relative_path": "personal-documents/mega_nesin_v6.3_filled.xlsx",
+      "size_bytes": 18947,
+      "sha256": "c80616b4d33fd059a097e81437658057aa74476bbc13ad80724f34f8add04173"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(20260811-034801).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-08-11T03:48:06.767335Z",
+      "updated_at": "2026-08-11T03:48:06.767335Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(20260811-034801).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(20260811-034702).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-08-11T03:47:05.119257Z",
+      "updated_at": "2026-08-11T03:47:05.119257Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(20260811-034702).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_With_Affiliation_References_no_page1-4(1).docx",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-07-29T08:24:14.819783Z",
+      "updated_at": "2026-07-29T08:24:14.820175Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 849036,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_With_Affiliation_References_no_page1-4(1).docx",
+      "size_bytes": 849036,
+      "sha256": "d75dc216f1be0039121cf5137ec7fb07b780a85feaf36b2e65e719f29c37cc1e"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_With_Affiliation_References_no_page1-3.pdf",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-07-13T09:43:03.614859Z",
+      "updated_at": "2026-07-13T09:43:03.615230Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 898163,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_With_Affiliation_References_no_page1-3.pdf",
+      "size_bytes": 898163,
+      "sha256": "c9b55820f0ffc89d5e90ce077303221ab0f8892addf3f728a414eb6355480953"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_With_Affiliation_References_no_page1-4.docx",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-27T16:29:02.802731Z",
+      "updated_at": "2026-06-27T16:29:02.803057Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 849036,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_With_Affiliation_References_no_page1-4.docx",
+      "size_bytes": 849036,
+      "sha256": "d75dc216f1be0039121cf5137ec7fb07b780a85feaf36b2e65e719f29c37cc1e"
+    },
+    {
+      "original_name": "Brane_Dilaton_Final_With_Affiliation_References_no_page1.docx",
+      "category": "research/brane-dilaton",
+      "created_at": "2026-06-02T23:38:23.078827Z",
+      "updated_at": "2026-06-02T23:38:23.079071Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 849036,
+      "status": "included",
+      "relative_path": "research/brane-dilaton/Brane_Dilaton_Final_With_Affiliation_References_no_page1.docx",
+      "size_bytes": 849036,
+      "sha256": "d75dc216f1be0039121cf5137ec7fb07b780a85feaf36b2e65e719f29c37cc1e"
+    },
+    {
+      "original_name": "ALE_Aplus_Text_Fixed(1).pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:51:11.940160Z",
+      "updated_at": "2026-05-30T01:51:11.940428Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 65961,
+      "status": "included",
+      "relative_path": "presentations/ALE_Aplus_Text_Fixed(1).pptx",
+      "size_bytes": 65961,
+      "sha256": "859220ac8901545035689af8f69af023c03095f7660770fae9e66d781d6e2931"
+    },
+    {
+      "original_name": "ALE_Aplus_Text_Fixed.pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:51:08.920973Z",
+      "updated_at": "2026-05-30T01:51:08.921298Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 65961,
+      "status": "included",
+      "relative_path": "presentations/ALE_Aplus_Text_Fixed.pptx",
+      "size_bytes": 65961,
+      "sha256": "859220ac8901545035689af8f69af023c03095f7660770fae9e66d781d6e2931"
+    },
+    {
+      "original_name": "ALE_Aplus_Content_Enhanced.pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:48:11.880847Z",
+      "updated_at": "2026-05-30T01:48:11.881156Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 50259,
+      "status": "included",
+      "relative_path": "presentations/ALE_Aplus_Content_Enhanced.pptx",
+      "size_bytes": 50259,
+      "sha256": "f09c3b509e85972c3b8a943581b3d031e216329e97edf7f0e0c1c937872facd8"
+    },
+    {
+      "original_name": "ALE_Aplus_Colorized.pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:46:33.046410Z",
+      "updated_at": "2026-05-30T01:46:33.046610Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 46002,
+      "status": "included",
+      "relative_path": "presentations/ALE_Aplus_Colorized.pptx",
+      "size_bytes": 46002,
+      "sha256": "63fe48087b33b1183584b1f9f5d09445b5ebffd02a82fb3c11177432b03de207"
+    },
+    {
+      "original_name": "ALE_Aplus_Presentation(1).pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:45:55.232173Z",
+      "updated_at": "2026-05-30T01:45:55.232481Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 44313,
+      "status": "included",
+      "relative_path": "presentations/ALE_Aplus_Presentation(1).pptx",
+      "size_bytes": 44313,
+      "sha256": "498d63cd9a33e461a68ca0538fbe79bd654eb0dd8ace6603c6450c8a3c39e925"
+    },
+    {
+      "original_name": "ALE_7min_Presentation_Enhanced.pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:44:03.471306Z",
+      "updated_at": "2026-05-30T01:44:03.471677Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 36325,
+      "status": "included",
+      "relative_path": "presentations/ALE_7min_Presentation_Enhanced.pptx",
+      "size_bytes": 36325,
+      "sha256": "82f675fe098d5b8ba7f3d880a35d33e41298f900ba0a4a79f3dfaff18e3df5d1"
+    },
+    {
+      "original_name": "ALE_Aplus_Presentation.pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:31:49.500801Z",
+      "updated_at": "2026-05-30T01:31:49.501057Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 44313,
+      "status": "included",
+      "relative_path": "presentations/ALE_Aplus_Presentation.pptx",
+      "size_bytes": 44313,
+      "sha256": "498d63cd9a33e461a68ca0538fbe79bd654eb0dd8ace6603c6450c8a3c39e925"
+    },
+    {
+      "original_name": "ALE_Design_Enhanced.pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:30:26.430406Z",
+      "updated_at": "2026-05-30T01:30:26.430740Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 35801,
+      "status": "included",
+      "relative_path": "presentations/ALE_Design_Enhanced.pptx",
+      "size_bytes": 35801,
+      "sha256": "b6ad6a98eaf980dc0e9e7fbb6265ffd1a382e8c18c865e6063023383beabcb1b"
+    },
+    {
+      "original_name": "ALE_7min_Presentation.pptx",
+      "category": "presentations",
+      "created_at": "2026-05-30T01:27:58.351398Z",
+      "updated_at": "2026-05-30T01:27:58.351636Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 35011,
+      "status": "included",
+      "relative_path": "presentations/ALE_7min_Presentation.pptx",
+      "size_bytes": 35011,
+      "sha256": "fc5e3c4acd84ba29c9d3843fb80188263249e47a034280a858aa8bdae2e13901"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(6).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-05-21T06:16:09.553002Z",
+      "updated_at": "2026-05-21T06:16:09.553311Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(6).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "arxiv_submission.tex",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-05-05T11:30:53.777000Z",
+      "updated_at": "2026-05-05T11:30:53.777336Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 4563,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/arxiv_submission.tex",
+      "size_bytes": 4563,
+      "sha256": "3e32cb44f0c751122bd4d9e7c2fb27269c01316c9c16f79d5aeadea405c283a8"
+    },
+    {
+      "original_name": "Notes_260505_202833.txt",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-05-05T11:30:09.997391Z",
+      "updated_at": "2026-05-05T11:30:09.997906Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 4561,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260505_202833.txt",
+      "size_bytes": 4561,
+      "sha256": "e96b3fc7d2e62da4b9f942a5371a18fdf642c5a7e0c0c15e5b6ea8caa09b3ade"
+    },
+    {
+      "original_name": "Notes_260505_201349.txt",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-05-05T11:18:04.005203Z",
+      "updated_at": "2026-05-05T11:18:04.005827Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 4136,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260505_201349.txt",
+      "size_bytes": 4136,
+      "sha256": "e7fd8f1f1a12ea7344d24dd5268e193fad16d8665a97bf6f19f1dfb5fbf28c81"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(5).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-04-30T14:17:42.029098Z",
+      "updated_at": "2026-04-30T14:17:42.029471Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(5).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-04-15T14:07:08.085514Z",
+      "updated_at": "2026-04-15T14:07:08.085535Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1.pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(4).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-04-07T10:52:18.086547Z",
+      "updated_at": "2026-04-07T10:52:18.086601Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(4).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "Geometric and Entanglement.docx",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-03-22T07:29:29.193144Z",
+      "updated_at": "2026-03-22T07:29:29.193211Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 19976,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Geometric and Entanglement.docx",
+      "size_bytes": 19976,
+      "sha256": "3b9338a7135cb07784cf7397103010dd853f2ce938517a8de0807684af980037"
+    },
+    {
+      "original_name": "yangmillsmassgap2 (1).pdf",
+      "category": "research/yang-mills",
+      "created_at": "2026-03-08T09:20:04.026966Z",
+      "updated_at": "2026-03-08T09:20:04.027064Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 106186,
+      "status": "included",
+      "relative_path": "research/yang-mills/yangmillsmassgap2 (1).pdf",
+      "size_bytes": 106186,
+      "sha256": "f5832b01239cb8e29fa8cb93686d5139b0df81f38d9f125f1e25d0ef7420537e"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(3).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-03-08T09:20:03.111666Z",
+      "updated_at": "2026-03-08T09:20:03.111719Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(3).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-03-08T08:07:17.062996Z",
+      "updated_at": "2026-03-08T08:07:17.063063Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex.pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(2).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-03-08T07:52:59.691426Z",
+      "updated_at": "2026-03-08T07:52:59.691476Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(2).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "Geometric_Emergence_of_Gravity_Annotated.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-03-08T07:51:54.723240Z",
+      "updated_at": "2026-03-08T07:51:54.723315Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 3172,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Geometric_Emergence_of_Gravity_Annotated.pdf",
+      "size_bytes": 3172,
+      "sha256": "a4b0b5ffcc0a33d46542d37e38899aecd0dae643f9a42e4bb48bb6906e5282f5"
+    },
+    {
+      "original_name": "entanglement_induced_supergravity_tex-1(1).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-03-01T09:14:19.181263Z",
+      "updated_at": "2026-03-01T09:14:19.181294Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 206262,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/entanglement_induced_supergravity_tex-1(1).pdf",
+      "size_bytes": 206262,
+      "sha256": "67a95f3f4c53d92f54cf50b36381a47119f87153dab196fd118ce9d2675df0fe"
+    },
+    {
+      "original_name": "Notes_260220_122059(1).txt",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T03:32:29.015976Z",
+      "updated_at": "2026-02-20T03:32:29.016038Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 5986,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_122059(1).txt",
+      "size_bytes": 5986,
+      "sha256": "aeb5e0128fb1df21baf2c9b8a83de7c775f8d65fc0bc14844783764aa3f1ac4c"
+    },
+    {
+      "original_name": "Notes_260220_122059.txt",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T03:30:50.491813Z",
+      "updated_at": "2026-02-20T03:30:50.491842Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 5986,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_122059.txt",
+      "size_bytes": 5986,
+      "sha256": "aeb5e0128fb1df21baf2c9b8a83de7c775f8d65fc0bc14844783764aa3f1ac4c"
+    },
+    {
+      "original_name": "Notes_260220_121350.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T03:17:50.849712Z",
+      "updated_at": "2026-02-20T03:17:50.849736Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 80080,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_121350.pdf",
+      "size_bytes": 80080,
+      "sha256": "b6e40acb131b13d53d24d7ed83906e703d5d7988e38908af48ec46e533b8070e"
+    },
+    {
+      "original_name": "Notes_260220_114237(3).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T03:11:47.730909Z",
+      "updated_at": "2026-02-20T03:11:47.730950Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 78776,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_114237(3).pdf",
+      "size_bytes": 78776,
+      "sha256": "5945a463bc55b0bebcc748b1b9e3edc93b2f8fecd7f057b1451e7cf1fc9cba34"
+    },
+    {
+      "original_name": "Notes_260220_114237(2).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T03:07:15.294222Z",
+      "updated_at": "2026-02-20T03:07:15.294258Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 78776,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_114237(2).pdf",
+      "size_bytes": 78776,
+      "sha256": "5945a463bc55b0bebcc748b1b9e3edc93b2f8fecd7f057b1451e7cf1fc9cba34"
+    },
+    {
+      "original_name": "Notes_260220_114237(1).pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T03:00:34.654222Z",
+      "updated_at": "2026-02-20T03:00:34.654264Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 78776,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_114237(1).pdf",
+      "size_bytes": 78776,
+      "sha256": "5945a463bc55b0bebcc748b1b9e3edc93b2f8fecd7f057b1451e7cf1fc9cba34"
+    },
+    {
+      "original_name": "Notes_260220_114237.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T02:52:10.233240Z",
+      "updated_at": "2026-02-20T02:52:10.233290Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 78776,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_114237.pdf",
+      "size_bytes": 78776,
+      "sha256": "5945a463bc55b0bebcc748b1b9e3edc93b2f8fecd7f057b1451e7cf1fc9cba34"
+    },
+    {
+      "original_name": "Notes_260220_113453.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T02:40:15.633556Z",
+      "updated_at": "2026-02-20T02:40:15.633583Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 74048,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/Notes_260220_113453.pdf",
+      "size_bytes": 74048,
+      "sha256": "fb62c99e1ca67901d6139f6a1d5847f9d7f860e904a43c896679ce152cb6bb54"
+    },
+    {
+      "original_name": "CalabiYau_AdSCFT_Geometric_Mapping_Paper_v3.pdf",
+      "category": "research/quantum-gravity",
+      "created_at": "2026-02-20T02:32:06.711043Z",
+      "updated_at": "2026-02-20T02:32:06.711087Z",
+      "source_kind": "reuploaded-work",
+      "expected_size_bytes": 200791,
+      "status": "included",
+      "relative_path": "research/quantum-gravity/CalabiYau_AdSCFT_Geometric_Mapping_Paper_v3.pdf",
+      "size_bytes": 200791,
+      "sha256": "e197337889dc56c58863b9eb8d1ea89eae10a1a262a6b308662b8ee4b8d0a97c"
+    }
+  ],
+  "sites": [
+    {
+      "title": "STADIUM RUSH · 3D 축구",
+      "slug": "stadium-rush",
+      "live_url": "https://stadium-rush.yonseiee22.chatgpt.site",
+      "source_commit": "da706d090f456eb4e5473b64eefab2bfc10f036c",
+      "source_file_count": 105,
+      "source_files": [
+        {
+          "relative_path": "sites/stadium-rush/.gitignore",
+          "size_bytes": 598,
+          "sha256": "55d0a3e1f8e2e31b6fda7293305b96d676e6fcd51a9680d6903dd7240fa0e192"
+        },
+        {
+          "relative_path": "sites/stadium-rush/.npmrc",
+          "size_bytes": 45,
+          "sha256": "a3909ac0447c469fda12c57374993be70f47ce73e49fd3124678c7c047f2214d"
+        },
+        {
+          "relative_path": "sites/stadium-rush/.openai/hosting.json",
+          "size_bytes": 91,
+          "sha256": "19404f22ea0c05aabe2f434519fbb09da3c609af717d6ad0e6a1b34b6dc1f609"
+        },
+        {
+          "relative_path": "sites/stadium-rush/README.md",
+          "size_bytes": 1324,
+          "sha256": "61d18c9bced755e2ebd7850a81eb032628712dae0d18dd948eecdeb809f2041a"
+        },
+        {
+          "relative_path": "sites/stadium-rush/app/chatgpt-auth.ts",
+          "size_bytes": 2550,
+          "sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc"
+        },
+        {
+          "relative_path": "sites/stadium-rush/app/globals.css",
+          "size_bytes": 17880,
+          "sha256": "79538e8625b9b9dc41090bcca77dbae0a81c678dc25ca4407577ad3b6d3a365e"
+        },
+        {
+          "relative_path": "sites/stadium-rush/app/layout.tsx",
+          "size_bytes": 493,
+          "sha256": "8ee85bd286c9158a10d6e9821dc04b4705aaa422c6f409ad606644db1345e8f0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/app/page.tsx",
+          "size_bytes": 13491,
+          "sha256": "44ea5afed84f13ab49ebb582ce28052df602c277fc9575efc372f4bca71c7125"
+        },
+        {
+          "relative_path": "sites/stadium-rush/build/sites-vite-plugin.LICENSE",
+          "size_bytes": 1063,
+          "sha256": "7de1e115d165f176e68f962acdb809b5ab8d8ae78d3981e0701392b2ac50c713"
+        },
+        {
+          "relative_path": "sites/stadium-rush/build/sites-vite-plugin.ts",
+          "size_bytes": 7185,
+          "sha256": "07af20e7097d9ed1d76f7c446d02997550b8fc5ca89668b249e25eabd62c6834"
+        },
+        {
+          "relative_path": "sites/stadium-rush/cloudflare-env.d.ts",
+          "size_bytes": 99,
+          "sha256": "8b0eca84aa3364cc7ccc43cc3af6beb88dd34ebd410de08690bf094ce39fbcb0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components.json",
+          "size_bytes": 420,
+          "sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/accordion.tsx",
+          "size_bytes": 2048,
+          "sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/alert-dialog.tsx",
+          "size_bytes": 5439,
+          "sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/alert.tsx",
+          "size_bytes": 1614,
+          "sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/aspect-ratio.tsx",
+          "size_bytes": 274,
+          "sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/attachment.tsx",
+          "size_bytes": 6002,
+          "sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/avatar.tsx",
+          "size_bytes": 2916,
+          "sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/badge.tsx",
+          "size_bytes": 1776,
+          "sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/breadcrumb.tsx",
+          "size_bytes": 2350,
+          "sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/bubble.tsx",
+          "size_bytes": 4699,
+          "sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/button-group.tsx",
+          "size_bytes": 2202,
+          "sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/button.tsx",
+          "size_bytes": 2392,
+          "sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/calendar.tsx",
+          "size_bytes": 7832,
+          "sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/card.tsx",
+          "size_bytes": 1987,
+          "sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/carousel.tsx",
+          "size_bytes": 5556,
+          "sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/chart.tsx",
+          "size_bytes": 10614,
+          "sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/checkbox.tsx",
+          "size_bytes": 1214,
+          "sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/collapsible.tsx",
+          "size_bytes": 795,
+          "sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/combobox.tsx",
+          "size_bytes": 9158,
+          "sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/command.tsx",
+          "size_bytes": 4818,
+          "sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/context-menu.tsx",
+          "size_bytes": 8268,
+          "sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/dialog.tsx",
+          "size_bytes": 4303,
+          "sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/direction.tsx",
+          "size_bytes": 506,
+          "sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/drawer.tsx",
+          "size_bytes": 4255,
+          "sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/dropdown-menu.tsx",
+          "size_bytes": 8418,
+          "sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/empty.tsx",
+          "size_bytes": 2396,
+          "sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/field.tsx",
+          "size_bytes": 6159,
+          "sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/form.tsx",
+          "size_bytes": 3757,
+          "sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/hover-card.tsx",
+          "size_bytes": 1526,
+          "sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/input-group.tsx",
+          "size_bytes": 5065,
+          "sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/input-otp.tsx",
+          "size_bytes": 2254,
+          "sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/input.tsx",
+          "size_bytes": 962,
+          "sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/item.tsx",
+          "size_bytes": 4486,
+          "sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/kbd.tsx",
+          "size_bytes": 862,
+          "sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/label.tsx",
+          "size_bytes": 606,
+          "sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/marker.tsx",
+          "size_bytes": 1864,
+          "sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/menubar.tsx",
+          "size_bytes": 8389,
+          "sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/message-scroller.tsx",
+          "size_bytes": 3992,
+          "sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/message.tsx",
+          "size_bytes": 2232,
+          "sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/native-select.tsx",
+          "size_bytes": 1995,
+          "sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/navigation-menu.tsx",
+          "size_bytes": 6658,
+          "sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/pagination.tsx",
+          "size_bytes": 2717,
+          "sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/popover.tsx",
+          "size_bytes": 2357,
+          "sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/progress.tsx",
+          "size_bytes": 755,
+          "sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/radio-group.tsx",
+          "size_bytes": 1460,
+          "sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/resizable.tsx",
+          "size_bytes": 1815,
+          "sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/scroll-area.tsx",
+          "size_bytes": 1639,
+          "sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/select.tsx",
+          "size_bytes": 6353,
+          "sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/separator.tsx",
+          "size_bytes": 694,
+          "sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/sheet.tsx",
+          "size_bytes": 4188,
+          "sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/sidebar.tsx",
+          "size_bytes": 21526,
+          "sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/skeleton.tsx",
+          "size_bytes": 276,
+          "sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/slider.tsx",
+          "size_bytes": 1991,
+          "sha256": "0e37484f4b416e79ac18c655cac961aefacf6e67085cfc2b320ea8af545635a3"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/sonner.tsx",
+          "size_bytes": 1034,
+          "sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/spinner.tsx",
+          "size_bytes": 331,
+          "sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/switch.tsx",
+          "size_bytes": 1408,
+          "sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/table.tsx",
+          "size_bytes": 2478,
+          "sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/tabs.tsx",
+          "size_bytes": 3782,
+          "sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/textarea.tsx",
+          "size_bytes": 759,
+          "sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/toggle-group.tsx",
+          "size_bytes": 2308,
+          "sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/toggle.tsx",
+          "size_bytes": 1565,
+          "sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16"
+        },
+        {
+          "relative_path": "sites/stadium-rush/components/ui/tooltip.tsx",
+          "size_bytes": 1830,
+          "sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4"
+        },
+        {
+          "relative_path": "sites/stadium-rush/db/index.ts",
+          "size_bytes": 423,
+          "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd"
+        },
+        {
+          "relative_path": "sites/stadium-rush/db/schema.ts",
+          "size_bytes": 169,
+          "sha256": "13ddacbf0be50e054d450a6c642b7fdc1aa943fd6b99084711e07e58b600390d"
+        },
+        {
+          "relative_path": "sites/stadium-rush/docs/preview.jpg",
+          "size_bytes": 98413,
+          "sha256": "afd4245c10961289c4349426dcd1483bed807edb18a15565caa782a5384e7c54"
+        },
+        {
+          "relative_path": "sites/stadium-rush/drizzle.config.ts",
+          "size_bytes": 148,
+          "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b"
+        },
+        {
+          "relative_path": "sites/stadium-rush/drizzle/meta/_journal.json",
+          "size_bytes": 61,
+          "sha256": "90cb374e093894d0efce6f1830d873a42aadd8ba49d2f024495e5cb2e1c8c303"
+        },
+        {
+          "relative_path": "sites/stadium-rush/eslint.config.mjs",
+          "size_bytes": 846,
+          "sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06"
+        },
+        {
+          "relative_path": "sites/stadium-rush/examples/d1/app/api/notes/route.ts",
+          "size_bytes": 1700,
+          "sha256": "a3d4a74fd53b7bf53e2df41f169d9d9d44a8b22aeb6d92f4e754956079af8909"
+        },
+        {
+          "relative_path": "sites/stadium-rush/examples/d1/db/schema.ts",
+          "size_bytes": 370,
+          "sha256": "d89eabd95716ce404f5f7ca2a254220435be8ddce7c899d7ef461ff22ec80454"
+        },
+        {
+          "relative_path": "sites/stadium-rush/hooks/use-mobile.ts",
+          "size_bytes": 565,
+          "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b"
+        },
+        {
+          "relative_path": "sites/stadium-rush/lib/football.js",
+          "size_bytes": 46340,
+          "sha256": "a18b4d1704818cdc3fcdb83cd1c7e72649220b5ef97e236ba7333c5fe73e3caa"
+        },
+        {
+          "relative_path": "sites/stadium-rush/lib/utils.ts",
+          "size_bytes": 177,
+          "sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68"
+        },
+        {
+          "relative_path": "sites/stadium-rush/next.config.ts",
+          "size_bytes": 133,
+          "sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc"
+        },
+        {
+          "relative_path": "sites/stadium-rush/package.json",
+          "size_bytes": 2142,
+          "sha256": "516b2f94f15814baf26622ad3b617e98c1aad938440badb1c942d5e1bfd04994"
+        },
+        {
+          "relative_path": "sites/stadium-rush/pnpm-lock.yaml",
+          "size_bytes": 344138,
+          "sha256": "e4de7f5af8b10065e4e788e5febeacdf010ee0684879d8ced48260cc36b7978d"
+        },
+        {
+          "relative_path": "sites/stadium-rush/pnpm-workspace.yaml",
+          "size_bytes": 759,
+          "sha256": "a054fd9884436f417b7d804c19615ad6048999e94438cd3f7e74fdef2d300c8f"
+        },
+        {
+          "relative_path": "sites/stadium-rush/postcss.config.mjs",
+          "size_bytes": 94,
+          "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+        },
+        {
+          "relative_path": "sites/stadium-rush/public/favicon.svg",
+          "size_bytes": 184,
+          "sha256": "9972684221f63b2b5992c5eb43a5c2b2b5f6b1677c5e382f29aea4735853e176"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/build-verified.sh",
+          "size_bytes": 661,
+          "sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/execution-profile.mjs",
+          "size_bytes": 624,
+          "sha256": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/install-ci.mjs",
+          "size_bytes": 1685,
+          "sha256": "4a5a92d60a08d0ba54effd8373da2da06284312c55b767287c68a0bec7200da7"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/install-ci.sh",
+          "size_bytes": 6783,
+          "sha256": "10d8764a61be50351dc3496e13588270de7956f0aa5f1189c49cabb2d89fe5c0"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/install-pnpm.sh",
+          "size_bytes": 9024,
+          "sha256": "db980d931c7d1fb6d64dfede2fc698227d9bbd3bbb94f50a8966d9eb980bf10c"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/npm-install.mjs",
+          "size_bytes": 7025,
+          "sha256": "9715c6a32d1d4a0289ef6376a0e819c3b6a6416b8a9877733d9fb4339ce626b6"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/pnpm-install.mjs",
+          "size_bytes": 10642,
+          "sha256": "380309d06af721775377f805e90bbba27118e91bf67cd6c87ca59b9ef56453e8"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/run-framework.mjs",
+          "size_bytes": 993,
+          "sha256": "9bf9f41a29314cabe0238b8e9c540ec3f7b5a6adafc7c8fb6c3940722d061dca"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/sites-env.mjs",
+          "size_bytes": 906,
+          "sha256": "5de99d6806b01f0ee0b941af3684d75dcf1afbbcff22cb95bfa2e584c5dafa88"
+        },
+        {
+          "relative_path": "sites/stadium-rush/scripts/sites-env.sh",
+          "size_bytes": 1530,
+          "sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60"
+        },
+        {
+          "relative_path": "sites/stadium-rush/tsconfig.json",
+          "size_bytes": 800,
+          "sha256": "7199c6e4e400921e8049729840165a39f1476fa97901bed00239e7697bfe8da4"
+        },
+        {
+          "relative_path": "sites/stadium-rush/tsconfig.tsbuildinfo",
+          "size_bytes": 690693,
+          "sha256": "e93a6227fa91c79d8cdfcad50f074e5302b0b66bc8edb6c5cf7b6f9dd628d8dd"
+        },
+        {
+          "relative_path": "sites/stadium-rush/vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+          "size_bytes": 1063,
+          "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f"
+        },
+        {
+          "relative_path": "sites/stadium-rush/vendor/shadcn-tailwind-4.13.0.css",
+          "size_bytes": 16041,
+          "sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a"
+        },
+        {
+          "relative_path": "sites/stadium-rush/vite.config.ts",
+          "size_bytes": 2240,
+          "sha256": "4b9d8a6b14fd155328847bc6cd063c6bf44c58c64de8d46911cdf0ede611e367"
+        }
+      ],
+      "source_history_path": "sites/source-history/stadium-rush.bundle",
+      "source_history_sha256": "6197a142d55fe0b8efacb2a29c6bf4212c11cda405b1a1329fad8b9ed1c51170",
+      "source_history_is_shallow": false
+    },
+    {
+      "title": "마리오 · STAR VOYAGE",
+      "slug": "mario-star-voyage",
+      "live_url": "https://mario-star-voyage.yonseiee22.chatgpt.site",
+      "source_commit": "fb06cdf1b8da5fc4780a97386886568c4c1b05bc",
+      "source_file_count": 5,
+      "source_files": [
+        {
+          "relative_path": "sites/mario-star-voyage/.openai/hosting.json",
+          "size_bytes": 106,
+          "sha256": "88631704074ce23a37a7a210fe08287fa0e2c26462014a5e5a025765bae5ce14"
+        },
+        {
+          "relative_path": "sites/mario-star-voyage/dist/cosmic-background.webp",
+          "size_bytes": 558158,
+          "sha256": "4332672703aa3fafc6d32dadd2e8ada92bf39c631e9232fb82830a9a28a6b7f8"
+        },
+        {
+          "relative_path": "sites/mario-star-voyage/dist/game.js",
+          "size_bytes": 40381,
+          "sha256": "d9a4678c88d984c78c93c32a26ef7663a86eba8ec86f2e0bfad70830292eae29"
+        },
+        {
+          "relative_path": "sites/mario-star-voyage/dist/index.html",
+          "size_bytes": 6308,
+          "sha256": "068118b0acb94d564a3d741faf67436e4e068937f738b353f52b50ec8086c13d"
+        },
+        {
+          "relative_path": "sites/mario-star-voyage/dist/style.css",
+          "size_bytes": 13807,
+          "sha256": "39e0c1fb32b8e7d8917632ae6fb818eba10473e744290af7aba68d2224bc4c27"
+        }
+      ],
+      "source_history_path": "sites/source-history/mario-star-voyage.bundle",
+      "source_history_sha256": "a17dca1cb323cdae4ad6ca614c97ecc3ffa5eda8c84a73314028bf21c637d667",
+      "source_history_is_shallow": false
+    },
+    {
+      "title": "신소재물리연구랩",
+      "slug": "materials-physics-lab",
+      "live_url": "https://materials-physics-lab.yonseiee22.chatgpt.site",
+      "source_commit": "b1bc7e3d9bf422a76514c5d3329dabf3cfa1e5cd",
+      "source_file_count": 119,
+      "source_files": [
+        {
+          "relative_path": "sites/materials-physics-lab/.gitignore",
+          "size_bytes": 598,
+          "sha256": "55d0a3e1f8e2e31b6fda7293305b96d676e6fcd51a9680d6903dd7240fa0e192"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/.npmrc",
+          "size_bytes": 45,
+          "sha256": "a3909ac0447c469fda12c57374993be70f47ce73e49fd3124678c7c047f2214d"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/.openai/hosting.json",
+          "size_bytes": 91,
+          "sha256": "fd8c8dffa11c6acf54ffd73891d02108e76cf026dc0d142ac543fe1574e96eef"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/EDITORIAL_UPDATES.md",
+          "size_bytes": 2143,
+          "sha256": "6e30f7617149da6882bf74f194e0b9480e8e7726ba932ef10b802246fa4a7c1b"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/README.md",
+          "size_bytes": 10120,
+          "sha256": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/api/chat/route.ts",
+          "size_bytes": 3195,
+          "sha256": "0a1e925f0ec01a7e71ba7e04fb84a00dc04fc8b005dab008288f4894bc47de0f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/api/funding/route.ts",
+          "size_bytes": 5086,
+          "sha256": "2100cc71fd6d99ae351917515a4007ff329b24753e42d4d28f37d1eeb452a5e5"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/chatgpt-auth.ts",
+          "size_bytes": 2550,
+          "sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/funding/page.tsx",
+          "size_bytes": 17768,
+          "sha256": "89227bdc4d826ba69680598db67db3316bc157191f5f8927b54769efe8f14dab"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/globals.css",
+          "size_bytes": 25140,
+          "sha256": "c8561ba913d2663aee5c93621cfc9f87b384e6018b172ce67c87acb41eeba5ea"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/insights/page.tsx",
+          "size_bytes": 6163,
+          "sha256": "5213d10f92790616b227ff2ebefde30a7613efc3041dad326f72437887043fd0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/lab-header.tsx",
+          "size_bytes": 649,
+          "sha256": "2bdf61c9260cfd2b9c49efad2a93fea2c1bbf05faefab5d51d878032bd5b9dc1"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/layout.tsx",
+          "size_bytes": 607,
+          "sha256": "5b81b11ebe2929f3721f0cbb99a0ce7db1c0a13d311689e15e32c298c5c96cce"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/app/page.tsx",
+          "size_bytes": 12375,
+          "sha256": "9616f32c786e1151e1980bd5ba0344643f84a05d72c1c278d773da586e193263"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/build/sites-vite-plugin.LICENSE",
+          "size_bytes": 1063,
+          "sha256": "7de1e115d165f176e68f962acdb809b5ab8d8ae78d3981e0701392b2ac50c713"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/build/sites-vite-plugin.ts",
+          "size_bytes": 7185,
+          "sha256": "07af20e7097d9ed1d76f7c446d02997550b8fc5ca89668b249e25eabd62c6834"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/cloudflare-env.d.ts",
+          "size_bytes": 99,
+          "sha256": "8b0eca84aa3364cc7ccc43cc3af6beb88dd34ebd410de08690bf094ce39fbcb0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components.json",
+          "size_bytes": 420,
+          "sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/accordion.tsx",
+          "size_bytes": 2048,
+          "sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/alert-dialog.tsx",
+          "size_bytes": 5439,
+          "sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/alert.tsx",
+          "size_bytes": 1614,
+          "sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/aspect-ratio.tsx",
+          "size_bytes": 274,
+          "sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/attachment.tsx",
+          "size_bytes": 6002,
+          "sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/avatar.tsx",
+          "size_bytes": 2916,
+          "sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/badge.tsx",
+          "size_bytes": 1776,
+          "sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/breadcrumb.tsx",
+          "size_bytes": 2350,
+          "sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/bubble.tsx",
+          "size_bytes": 4699,
+          "sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/button-group.tsx",
+          "size_bytes": 2202,
+          "sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/button.tsx",
+          "size_bytes": 2392,
+          "sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/calendar.tsx",
+          "size_bytes": 7832,
+          "sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/card.tsx",
+          "size_bytes": 1987,
+          "sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/carousel.tsx",
+          "size_bytes": 5556,
+          "sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/chart.tsx",
+          "size_bytes": 10614,
+          "sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/checkbox.tsx",
+          "size_bytes": 1214,
+          "sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/collapsible.tsx",
+          "size_bytes": 795,
+          "sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/combobox.tsx",
+          "size_bytes": 9158,
+          "sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/command.tsx",
+          "size_bytes": 4818,
+          "sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/context-menu.tsx",
+          "size_bytes": 8268,
+          "sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/dialog.tsx",
+          "size_bytes": 4303,
+          "sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/direction.tsx",
+          "size_bytes": 506,
+          "sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/drawer.tsx",
+          "size_bytes": 4255,
+          "sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/dropdown-menu.tsx",
+          "size_bytes": 8418,
+          "sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/empty.tsx",
+          "size_bytes": 2396,
+          "sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/field.tsx",
+          "size_bytes": 6159,
+          "sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/form.tsx",
+          "size_bytes": 3757,
+          "sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/hover-card.tsx",
+          "size_bytes": 1526,
+          "sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/input-group.tsx",
+          "size_bytes": 5065,
+          "sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/input-otp.tsx",
+          "size_bytes": 2254,
+          "sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/input.tsx",
+          "size_bytes": 962,
+          "sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/item.tsx",
+          "size_bytes": 4486,
+          "sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/kbd.tsx",
+          "size_bytes": 862,
+          "sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/label.tsx",
+          "size_bytes": 606,
+          "sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/marker.tsx",
+          "size_bytes": 1864,
+          "sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/menubar.tsx",
+          "size_bytes": 8389,
+          "sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/message-scroller.tsx",
+          "size_bytes": 3992,
+          "sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/message.tsx",
+          "size_bytes": 2232,
+          "sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/native-select.tsx",
+          "size_bytes": 1995,
+          "sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/navigation-menu.tsx",
+          "size_bytes": 6658,
+          "sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/pagination.tsx",
+          "size_bytes": 2717,
+          "sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/popover.tsx",
+          "size_bytes": 2357,
+          "sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/progress.tsx",
+          "size_bytes": 755,
+          "sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/radio-group.tsx",
+          "size_bytes": 1460,
+          "sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/resizable.tsx",
+          "size_bytes": 1815,
+          "sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/scroll-area.tsx",
+          "size_bytes": 1639,
+          "sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/select.tsx",
+          "size_bytes": 6353,
+          "sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/separator.tsx",
+          "size_bytes": 694,
+          "sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/sheet.tsx",
+          "size_bytes": 4188,
+          "sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/sidebar.tsx",
+          "size_bytes": 21526,
+          "sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/skeleton.tsx",
+          "size_bytes": 276,
+          "sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/slider.tsx",
+          "size_bytes": 1991,
+          "sha256": "0e37484f4b416e79ac18c655cac961aefacf6e67085cfc2b320ea8af545635a3"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/sonner.tsx",
+          "size_bytes": 1034,
+          "sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/spinner.tsx",
+          "size_bytes": 331,
+          "sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/switch.tsx",
+          "size_bytes": 1408,
+          "sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/table.tsx",
+          "size_bytes": 2478,
+          "sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/tabs.tsx",
+          "size_bytes": 3782,
+          "sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/textarea.tsx",
+          "size_bytes": 759,
+          "sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/toggle-group.tsx",
+          "size_bytes": 2308,
+          "sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/toggle.tsx",
+          "size_bytes": 1565,
+          "sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/components/ui/tooltip.tsx",
+          "size_bytes": 1830,
+          "sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/db/index.ts",
+          "size_bytes": 423,
+          "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/db/schema.ts",
+          "size_bytes": 1080,
+          "sha256": "8f5c1a56365276ab87b019c65ad3d8b115d47f4c1c94ee3f04064a232ad4e10e"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/drizzle.config.ts",
+          "size_bytes": 148,
+          "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/drizzle/0000_brown_blazing_skull.sql",
+          "size_bytes": 818,
+          "sha256": "5ebed791fb38fadbf71613ea0ec90ec577b47ff39fde613d2d8fc0122213aec6"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/drizzle/meta/0000_snapshot.json",
+          "size_bytes": 4861,
+          "sha256": "41162b03af8cf9e042a808935fb63f7db453c4b180df338611e24f75ca0d80f1"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/drizzle/meta/_journal.json",
+          "size_bytes": 209,
+          "sha256": "b3ecafcbb5eb57fc3640921f14951d8d63c356d5302a1610f7354e0da3706e28"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/eslint.config.mjs",
+          "size_bytes": 846,
+          "sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/examples/d1/app/api/notes/route.ts",
+          "size_bytes": 1700,
+          "sha256": "a3d4a74fd53b7bf53e2df41f169d9d9d44a8b22aeb6d92f4e754956079af8909"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/examples/d1/db/schema.ts",
+          "size_bytes": 370,
+          "sha256": "d89eabd95716ce404f5f7ca2a254220435be8ddce7c899d7ef461ff22ec80454"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/hooks/use-mobile.ts",
+          "size_bytes": 565,
+          "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/lib/funding-db.ts",
+          "size_bytes": 183,
+          "sha256": "f9bcd0dd605324b50c77f80b49e5b3316b38dd01ee57e15d13fd0bdbe7981a30"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/lib/research-data.ts",
+          "size_bytes": 10958,
+          "sha256": "2f61d406bfbea0e9f43b746ef447f4911baef8e6b172fb3b5dc6060b6434a76f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/lib/research-updates.ts",
+          "size_bytes": 25684,
+          "sha256": "7a7fc040b969e272514e0faf112088d3992b3478f8c509ab5db427407676627f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/lib/utils.ts",
+          "size_bytes": 177,
+          "sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/next.config.ts",
+          "size_bytes": 133,
+          "sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/package.json",
+          "size_bytes": 2085,
+          "sha256": "4f6c2790297197729de0f4557b1fdf37e8e7868c232e75f13ab92e615ce3e03b"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/pnpm-lock.yaml",
+          "size_bytes": 342352,
+          "sha256": "89dcf13994f9f97e62a63ac011591005afe4096309f4488ec0b99f7593a9294c"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/pnpm-workspace.yaml",
+          "size_bytes": 759,
+          "sha256": "a054fd9884436f417b7d804c19615ad6048999e94438cd3f7e74fdef2d300c8f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/postcss.config.mjs",
+          "size_bytes": 94,
+          "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/public/favicon.svg",
+          "size_bytes": 197,
+          "sha256": "c0aa84aaca2b1f83a24cfd86099eec8ce9b961335aa95f6e1f50a2c57d14ef44"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/public/file.svg",
+          "size_bytes": 392,
+          "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/public/globe.svg",
+          "size_bytes": 1036,
+          "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/public/window.svg",
+          "size_bytes": 386,
+          "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/build-verified.sh",
+          "size_bytes": 661,
+          "sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/check-editorial-data.mjs",
+          "size_bytes": 2615,
+          "sha256": "c3f3b3e74801249d0beb7216c3d26523979282cddb341d71b3395d3c28312e49"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/execution-profile.mjs",
+          "size_bytes": 624,
+          "sha256": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/install-ci.mjs",
+          "size_bytes": 1685,
+          "sha256": "4a5a92d60a08d0ba54effd8373da2da06284312c55b767287c68a0bec7200da7"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/install-ci.sh",
+          "size_bytes": 6783,
+          "sha256": "10d8764a61be50351dc3496e13588270de7956f0aa5f1189c49cabb2d89fe5c0"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/install-pnpm.sh",
+          "size_bytes": 9024,
+          "sha256": "db980d931c7d1fb6d64dfede2fc698227d9bbd3bbb94f50a8966d9eb980bf10c"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/npm-install.mjs",
+          "size_bytes": 7025,
+          "sha256": "9715c6a32d1d4a0289ef6376a0e819c3b6a6416b8a9877733d9fb4339ce626b6"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/pnpm-install.mjs",
+          "size_bytes": 10642,
+          "sha256": "380309d06af721775377f805e90bbba27118e91bf67cd6c87ca59b9ef56453e8"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/run-framework.mjs",
+          "size_bytes": 993,
+          "sha256": "9bf9f41a29314cabe0238b8e9c540ec3f7b5a6adafc7c8fb6c3940722d061dca"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/sites-env.mjs",
+          "size_bytes": 906,
+          "sha256": "5de99d6806b01f0ee0b941af3684d75dcf1afbbcff22cb95bfa2e584c5dafa88"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/sites-env.sh",
+          "size_bytes": 1530,
+          "sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/scripts/test-funding.mjs",
+          "size_bytes": 3840,
+          "sha256": "5892e3252af02cc30e3d9629ef20a03597132fcac98a284890458e660b657afd"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/tsconfig.json",
+          "size_bytes": 800,
+          "sha256": "7199c6e4e400921e8049729840165a39f1476fa97901bed00239e7697bfe8da4"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/tsconfig.tsbuildinfo",
+          "size_bytes": 592901,
+          "sha256": "2047788547e790ca69f6da87e29131a2ed38aa8d500ea511cfdbffdcbd7db408"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+          "size_bytes": 1063,
+          "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/vendor/shadcn-tailwind-4.13.0.css",
+          "size_bytes": 16041,
+          "sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a"
+        },
+        {
+          "relative_path": "sites/materials-physics-lab/vite.config.ts",
+          "size_bytes": 2240,
+          "sha256": "4b9d8a6b14fd155328847bc6cd063c6bf44c58c64de8d46911cdf0ede611e367"
+        }
+      ],
+      "source_history_path": "sites/source-history/materials-physics-lab.bundle",
+      "source_history_sha256": "51c4339ce6e27ba5f55d4cf92c412f4a134a05c6c4a5f0aaefceec2fe999ef04",
+      "source_history_is_shallow": false
+    },
+    {
+      "title": "Mario · Cloud Adventure",
+      "slug": "mario-cloud-adventure",
+      "live_url": "https://mario-cloud-adventure.yonseiee22.chatgpt.site",
+      "source_commit": "3f7a959fa5bbe38ecb1772dca34dfe538761aaaa",
+      "source_file_count": 105,
+      "source_files": [
+        {
+          "relative_path": "sites/mario-cloud-adventure/.gitignore",
+          "size_bytes": 613,
+          "sha256": "cb59d954d56ab7d6fc77163723519bcd5e10ed4c0271e949bb9c77ebbc7689ea"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/.npmrc",
+          "size_bytes": 45,
+          "sha256": "a3909ac0447c469fda12c57374993be70f47ce73e49fd3124678c7c047f2214d"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/.openai/hosting.json",
+          "size_bytes": 91,
+          "sha256": "6b827d090c4a9a3d344b54619f82786c7fcd2389e87de791adf545fada303947"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/README.md",
+          "size_bytes": 1267,
+          "sha256": "f2d56282e41837924166552589547fe8aa45ccf336f7bb4381df2fc27a53a846"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/app/chatgpt-auth.ts",
+          "size_bytes": 2550,
+          "sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/app/globals.css",
+          "size_bytes": 13423,
+          "sha256": "d4c81e46254e7be456e5e23aab91af03973cf9e3bccf89ae3b5576b67befe617"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/app/layout.tsx",
+          "size_bytes": 530,
+          "sha256": "efe053ff51a286d1e2ae09d3ff1093e2a6db2104333a71c6128de94dad26e523"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/app/page.tsx",
+          "size_bytes": 8088,
+          "sha256": "a9919ed9e1adf170a9aa8b57e4400110391e0abfaf7a23cbb8bd95edf26c8ef4"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/build/sites-vite-plugin.LICENSE",
+          "size_bytes": 1063,
+          "sha256": "7de1e115d165f176e68f962acdb809b5ab8d8ae78d3981e0701392b2ac50c713"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/build/sites-vite-plugin.ts",
+          "size_bytes": 7185,
+          "sha256": "07af20e7097d9ed1d76f7c446d02997550b8fc5ca89668b249e25eabd62c6834"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/cloudflare-env.d.ts",
+          "size_bytes": 99,
+          "sha256": "8b0eca84aa3364cc7ccc43cc3af6beb88dd34ebd410de08690bf094ce39fbcb0"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components.json",
+          "size_bytes": 420,
+          "sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/accordion.tsx",
+          "size_bytes": 2048,
+          "sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/alert-dialog.tsx",
+          "size_bytes": 5439,
+          "sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/alert.tsx",
+          "size_bytes": 1614,
+          "sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/aspect-ratio.tsx",
+          "size_bytes": 274,
+          "sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/attachment.tsx",
+          "size_bytes": 6002,
+          "sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/avatar.tsx",
+          "size_bytes": 2916,
+          "sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/badge.tsx",
+          "size_bytes": 1776,
+          "sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/breadcrumb.tsx",
+          "size_bytes": 2350,
+          "sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/bubble.tsx",
+          "size_bytes": 4699,
+          "sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/button-group.tsx",
+          "size_bytes": 2202,
+          "sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/button.tsx",
+          "size_bytes": 2392,
+          "sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/calendar.tsx",
+          "size_bytes": 7832,
+          "sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/card.tsx",
+          "size_bytes": 1987,
+          "sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/carousel.tsx",
+          "size_bytes": 5556,
+          "sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/chart.tsx",
+          "size_bytes": 10614,
+          "sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/checkbox.tsx",
+          "size_bytes": 1214,
+          "sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/collapsible.tsx",
+          "size_bytes": 795,
+          "sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/combobox.tsx",
+          "size_bytes": 9158,
+          "sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/command.tsx",
+          "size_bytes": 4818,
+          "sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/context-menu.tsx",
+          "size_bytes": 8268,
+          "sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/dialog.tsx",
+          "size_bytes": 4303,
+          "sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/direction.tsx",
+          "size_bytes": 506,
+          "sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/drawer.tsx",
+          "size_bytes": 4255,
+          "sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/dropdown-menu.tsx",
+          "size_bytes": 8418,
+          "sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/empty.tsx",
+          "size_bytes": 2396,
+          "sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/field.tsx",
+          "size_bytes": 6159,
+          "sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/form.tsx",
+          "size_bytes": 3757,
+          "sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/hover-card.tsx",
+          "size_bytes": 1526,
+          "sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/input-group.tsx",
+          "size_bytes": 5065,
+          "sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/input-otp.tsx",
+          "size_bytes": 2254,
+          "sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/input.tsx",
+          "size_bytes": 962,
+          "sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/item.tsx",
+          "size_bytes": 4486,
+          "sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/kbd.tsx",
+          "size_bytes": 862,
+          "sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/label.tsx",
+          "size_bytes": 606,
+          "sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/marker.tsx",
+          "size_bytes": 1864,
+          "sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/menubar.tsx",
+          "size_bytes": 8389,
+          "sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/message-scroller.tsx",
+          "size_bytes": 3992,
+          "sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/message.tsx",
+          "size_bytes": 2232,
+          "sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/native-select.tsx",
+          "size_bytes": 1995,
+          "sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/navigation-menu.tsx",
+          "size_bytes": 6658,
+          "sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/pagination.tsx",
+          "size_bytes": 2717,
+          "sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/popover.tsx",
+          "size_bytes": 2357,
+          "sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/progress.tsx",
+          "size_bytes": 755,
+          "sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/radio-group.tsx",
+          "size_bytes": 1460,
+          "sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/resizable.tsx",
+          "size_bytes": 1815,
+          "sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/scroll-area.tsx",
+          "size_bytes": 1639,
+          "sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/select.tsx",
+          "size_bytes": 6353,
+          "sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/separator.tsx",
+          "size_bytes": 694,
+          "sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/sheet.tsx",
+          "size_bytes": 4188,
+          "sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/sidebar.tsx",
+          "size_bytes": 21526,
+          "sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/skeleton.tsx",
+          "size_bytes": 276,
+          "sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/slider.tsx",
+          "size_bytes": 1991,
+          "sha256": "0e37484f4b416e79ac18c655cac961aefacf6e67085cfc2b320ea8af545635a3"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/sonner.tsx",
+          "size_bytes": 1034,
+          "sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/spinner.tsx",
+          "size_bytes": 331,
+          "sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/switch.tsx",
+          "size_bytes": 1408,
+          "sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/table.tsx",
+          "size_bytes": 2478,
+          "sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/tabs.tsx",
+          "size_bytes": 3782,
+          "sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/textarea.tsx",
+          "size_bytes": 759,
+          "sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/toggle-group.tsx",
+          "size_bytes": 2308,
+          "sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/toggle.tsx",
+          "size_bytes": 1565,
+          "sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/components/ui/tooltip.tsx",
+          "size_bytes": 1830,
+          "sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/db/index.ts",
+          "size_bytes": 423,
+          "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/db/schema.ts",
+          "size_bytes": 169,
+          "sha256": "13ddacbf0be50e054d450a6c642b7fdc1aa943fd6b99084711e07e58b600390d"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/drizzle.config.ts",
+          "size_bytes": 148,
+          "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/drizzle/meta/_journal.json",
+          "size_bytes": 61,
+          "sha256": "90cb374e093894d0efce6f1830d873a42aadd8ba49d2f024495e5cb2e1c8c303"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/eslint.config.mjs",
+          "size_bytes": 846,
+          "sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/hooks/use-mobile.ts",
+          "size_bytes": 565,
+          "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/lib/game-art.ts",
+          "size_bytes": 10570,
+          "sha256": "bdacb63a1cf50402e3e4891eaeb01231b108862f67963bc3797072fecd9abc5b"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/lib/game-audio.ts",
+          "size_bytes": 2255,
+          "sha256": "cca496ec7b2fce1ec7506e956eadc925594346de13ee6ca47607aed6ad5df511"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/lib/game-canvas.ts",
+          "size_bytes": 19272,
+          "sha256": "ff46d27e48c2725f24723cabff4e311f151298e220f4d81ad96e99ba515dec3d"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/lib/game.ts",
+          "size_bytes": 18297,
+          "sha256": "a1f0951b33a711bdcbe2e17f8a6a1dd3fbd8eb72d18388fa74fd386686b288b2"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/lib/platformer.ts",
+          "size_bytes": 12008,
+          "sha256": "151680059cf81505de337b2900ae6cf2f40366c391c4c96834d4af5126e053e8"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/lib/utils.ts",
+          "size_bytes": 177,
+          "sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/next.config.ts",
+          "size_bytes": 133,
+          "sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/package.json",
+          "size_bytes": 2142,
+          "sha256": "516b2f94f15814baf26622ad3b617e98c1aad938440badb1c942d5e1bfd04994"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/pnpm-lock.yaml",
+          "size_bytes": 344138,
+          "sha256": "e4de7f5af8b10065e4e788e5febeacdf010ee0684879d8ced48260cc36b7978d"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/pnpm-workspace.yaml",
+          "size_bytes": 759,
+          "sha256": "a054fd9884436f417b7d804c19615ad6048999e94438cd3f7e74fdef2d300c8f"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/postcss.config.mjs",
+          "size_bytes": 94,
+          "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/public/favicon.svg",
+          "size_bytes": 196,
+          "sha256": "cdccbe470b405063a344882e6cb07b7e81ddfcf906ab38e146944009f403dbd9"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/public/world-background.webp",
+          "size_bytes": 448468,
+          "sha256": "11ce8ad10cc6f205ae72267214d81b2909c602ef005811a5fd2cbd9da130d599"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/build-verified.sh",
+          "size_bytes": 661,
+          "sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/execution-profile.mjs",
+          "size_bytes": 624,
+          "sha256": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/install-ci.mjs",
+          "size_bytes": 1616,
+          "sha256": "63f2c4589b740184b68a0c9214fe92439b6f7d1fbfbec9ef552fd745b0a9c6cc"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/install-ci.sh",
+          "size_bytes": 7494,
+          "sha256": "5161648b51012c7351a4a975c6ed05a67cc1f1d9dbabc4381708d1005d8c4edb"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/install-pnpm.sh",
+          "size_bytes": 9024,
+          "sha256": "db980d931c7d1fb6d64dfede2fc698227d9bbd3bbb94f50a8966d9eb980bf10c"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/pnpm-install.mjs",
+          "size_bytes": 10642,
+          "sha256": "380309d06af721775377f805e90bbba27118e91bf67cd6c87ca59b9ef56453e8"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/run-framework.mjs",
+          "size_bytes": 993,
+          "sha256": "9bf9f41a29314cabe0238b8e9c540ec3f7b5a6adafc7c8fb6c3940722d061dca"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/sites-env.mjs",
+          "size_bytes": 906,
+          "sha256": "5de99d6806b01f0ee0b941af3684d75dcf1afbbcff22cb95bfa2e584c5dafa88"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/scripts/sites-env.sh",
+          "size_bytes": 1530,
+          "sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/tsconfig.json",
+          "size_bytes": 800,
+          "sha256": "7199c6e4e400921e8049729840165a39f1476fa97901bed00239e7697bfe8da4"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+          "size_bytes": 1063,
+          "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/vendor/shadcn-tailwind-4.13.0.css",
+          "size_bytes": 16041,
+          "sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a"
+        },
+        {
+          "relative_path": "sites/mario-cloud-adventure/vite.config.ts",
+          "size_bytes": 2240,
+          "sha256": "4b9d8a6b14fd155328847bc6cd063c6bf44c58c64de8d46911cdf0ede611e367"
+        }
+      ],
+      "source_history_path": "sites/source-history/mario-cloud-adventure.bundle",
+      "source_history_sha256": "d79f01f0746c0888ae8b229873d17800cc729d4bf6aceb7824a9a82d0f414f7c",
+      "source_history_is_shallow": false
+    },
+    {
+      "title": "FLOODLIGHT · 스타디움 풋볼",
+      "slug": "floodlight-football",
+      "live_url": "https://floodlight-football.yonseiee22.chatgpt.site",
+      "source_commit": "3360f6b85c23369e011a1d42d4ad5e3e9750bbcf",
+      "source_file_count": 7,
+      "source_files": [
+        {
+          "relative_path": "sites/floodlight-football/.openai/hosting.json",
+          "size_bytes": 106,
+          "sha256": "c31bd91384604dc0f1cd97a962e3012405b362de5932716b2a6df06027487585"
+        },
+        {
+          "relative_path": "sites/floodlight-football/dist/game.js",
+          "size_bytes": 14342,
+          "sha256": "35f52ea88cd1c9c0f7f11022f211e5816567cd954b0bcb9a152cb218a38262c7"
+        },
+        {
+          "relative_path": "sites/floodlight-football/dist/icon.svg",
+          "size_bytes": 177,
+          "sha256": "5e659fe38598cb8f390a70b470cdf0775f7cb5cb8a5a983a17889605b0ac7a5f"
+        },
+        {
+          "relative_path": "sites/floodlight-football/dist/index.html",
+          "size_bytes": 7430,
+          "sha256": "16b25b0ee62bf90436b95c28b492563b5c7877ecd903986a4b862cef25421b0f"
+        },
+        {
+          "relative_path": "sites/floodlight-football/dist/match.js",
+          "size_bytes": 12819,
+          "sha256": "31dea020cb8802d47f21bc91bec3b8ffb896aa7255904951f4b2b49ef515dde3"
+        },
+        {
+          "relative_path": "sites/floodlight-football/dist/renderer.js",
+          "size_bytes": 18801,
+          "sha256": "164513e381af3d9dc00e3c7326167a6b73d5dc1c539499d7b8632afbd6877e38"
+        },
+        {
+          "relative_path": "sites/floodlight-football/dist/style.css",
+          "size_bytes": 18140,
+          "sha256": "b7daa4c93ab12ac2a58883493f9ffed2ada9c5713d8f824d37d0352b2dc9bd41"
+        }
+      ],
+      "source_history_path": "sites/source-history/floodlight-football.bundle",
+      "source_history_sha256": "5d0a956dc3854c9c5614c3a2a2d7f1d6f58ce468424a5c2bbdc32cb755e85e7d",
+      "source_history_is_shallow": false
+    }
+  ],
+  "excluded_site_files": []
+}
